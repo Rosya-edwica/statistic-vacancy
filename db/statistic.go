@@ -13,7 +13,7 @@ func (d *Database) SaveStatistic(statistic models.Statistic) {
 	tx, _ := d.Connection.Begin()
 	_, err := d.Connection.Exec(smt, statistic.PositionId, statistic.CityId, strings.Join(statistic.ListVacancyId, "|"), statistic.VacanciesCount, statistic.AverageSalary, statistic.AverageExperience, strings.Join(statistic.Areas, "|"), strings.Join(statistic.Specs, "|"))
 	if err != nil {
-		if err.Error() == "Unknown column 'NaN' in 'field list'" {
+		if err.Error() == "Error 1054 (42S22): Unknown column 'NaN' in 'field list'" {
 			fmt.Println("Error: Unknown column 'NaN' in 'field list'\n", smt, "\n", statistic)
 		} else {
 			checkErr(err)
