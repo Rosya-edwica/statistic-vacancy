@@ -30,11 +30,11 @@ func init() {
 
 func main() {
 	database := db.Database{
-		Host: os.Getenv("HOST"),
-		Port: os.Getenv("PORT"),
-		User: os.Getenv("USER"),
-		Password: os.Getenv("PASS"),
-		Name: os.Getenv("NAME"),
+		Host: os.Getenv("HOST_MYSQL"),
+		Port: os.Getenv("PORT_MYSQL"),
+		User: os.Getenv("USER_MYSQL"),
+		Password: os.Getenv("PASS_MYSQL"),
+		Name: os.Getenv("NAME_MYSQL"),
 	}
 	database.Connect()
 	positions := database.GetPositions()[10000:]
