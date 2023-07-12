@@ -1,7 +1,6 @@
 package main
 
 import (
-	"fmt"
 	"os"
 	"strings"
 
@@ -38,13 +37,11 @@ func main() {
 		Name: os.Getenv("NAME"),
 	}
 	database.Connect()
-	positions := database.GetPositions()
+	positions := database.GetPositions()[10000:]
 	for _, pos := range positions {
 		vacancies := database.GetVacancies(pos)
 		statistic := buildStatistic(vacancies)
 		database.SaveStatistic(statistic)
-		fmt.Println(statistic)
-		break
 	}
 }
 
@@ -60,6 +57,7 @@ func buildStatistic(vacancies []models.Vacancy) (statistic models.Statistic) {
 	statistic.Areas = getAreas(vacancies, "areas")
 	statistic.Specs = getAreas(vacancies, "specs")
 	statistic.AverageExperience = getAverageExperience(vacancies)
+	statistic.AverageSalary = getAverageSalary(vacancies)
 	return
 }
 
