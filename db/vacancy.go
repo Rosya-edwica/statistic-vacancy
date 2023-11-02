@@ -7,7 +7,7 @@ import (
 )
 
 func (d *Database) GetVacancies(pos models.Position) (vacancies []models.Vacancy) {
-	query := fmt.Sprintf("select id, experience, salary_from, salary_to, prof_areas, specs FROM h_vacancy WHERE position_id=%d AND city_id=%d AND platform != 'geekjob", pos.PositionId, pos.CityId)
+	query := fmt.Sprintf("select id, experience, salary_from, salary_to, prof_areas, specs FROM h_vacancy WHERE position_id=%d AND city_id=%d AND platform != 'geekjob'", pos.PositionId, pos.CityId)
 	rows, err := d.Connection.Query(query)
 	checkErr(err)
 	defer rows.Close()
