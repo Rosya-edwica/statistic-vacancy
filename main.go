@@ -38,7 +38,7 @@ func main() {
 		Name:     os.Getenv("MYSQL_DATABASE"),
 	}
 	database.Connect()
-	positions := database.GetPythonPositions()
+	positions := database.GetPositions()
 	for i, pos := range positions {
 		fmt.Printf("Осталось:%d/%d\n", i+1, len(positions))
 		vacancies := database.GetVacancies(pos)
