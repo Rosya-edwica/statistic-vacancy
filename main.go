@@ -1,6 +1,7 @@
 package main
 
 import (
+	"fmt"
 	"os"
 	"strings"
 
@@ -10,7 +11,7 @@ import (
 )
 
 type Experience struct {
-	Name string
+	Name  string
 	Level int
 }
 
@@ -30,19 +31,21 @@ func init() {
 
 func main() {
 	database := db.Database{
-		Host: os.Getenv("HOST_MYSQL"),
-		Port: os.Getenv("PORT_MYSQL"),
-		User: os.Getenv("USER_MYSQL"),
-		Password: os.Getenv("PASS_MYSQL"),
-		Name: os.Getenv("NAME_MYSQL"),
+		Host:     os.Getenv("MYSQL_HOST"),
+		Port:     os.Getenv("MYSQL_PORT"),
+		User:     os.Getenv("MYSQL_USER"),
+		Password: os.Getenv("MYSQL_PASSWORD"),
+		Name:     os.Getenv("MYSQL_DATABASE"),
 	}
 	database.Connect()
-	positions := database.GetPositions()[10000:]
-	for _, pos := range positions {
+	positions := database.GetPythonPositions()
+	for i, pos := range positions {
+		fmt.Printf("Осталось:%d/%d\n", i+1, len(positions))
 		vacancies := database.GetVacancies(pos)
 		statistic := buildStatistic(vacancies)
 		database.SaveStatistic(statistic)
 	}
+	database.Close()
 }
 
 func buildStatistic(vacancies []models.Vacancy) (statistic models.Statistic) {
@@ -71,22 +74,24 @@ func getListVacancyId(vacancies []models.Vacancy) (ids []string) {
 func getAreas(vacancies []models.Vacancy, typeArea string) (items []string) {
 	for _, vac := range vacancies {
 		switch typeArea {
-			case "areas": items = append(items, strings.Split(vac.Area, "|")...)
-			case "specs": items = append(items, strings.Split(vac.Spec, "|")...)
-		} 
+		case "areas":
+			items = append(items, strings.Split(vac.Area, "|")...)
+		case "specs":
+			items = append(items, strings.Split(vac.Spec, "|")...)
+		}
 	}
 	return uniqueStringsInList(items)
 }
 
-func uniqueStringsInList(items []string) (uniqueItems []string){
+func uniqueStringsInList(items []string) (uniqueItems []string) {
 	inResult := make(map[string]bool)
-    for _, str := range items {
-        if _, ok := inResult[str]; !ok {
-            inResult[str] = true
-            uniqueItems = append(uniqueItems, str)
-        }
-    }
-    return uniqueItems
+	for _, str := range items {
+		if _, ok := inResult[str]; !ok {
+			inResult[str] = true
+			uniqueItems = append(uniqueItems, str)
+		}
+	}
+	return uniqueItems
 
 }
 
@@ -94,10 +99,14 @@ func getAverageExperience(vacancies []models.Vacancy) (experience string) {
 	var sum int
 	for _, item := range vacancies {
 		switch item.Experience {
-		case "Нет опыта": sum += 1
-		case "От 1 года до 3 лет": sum += 2
-		case "От 3 до 6 лет": sum += 3
-		case "Более 6 лет": sum += 4
+		case "Нет опыта":
+			sum += 1
+		case "От 1 года до 3 лет":
+			sum += 2
+		case "От 3 до 6 лет":
+			sum += 3
+		case "Более 6 лет":
+			sum += 4
 		}
 	}
 	average := sum / len(vacancies)
