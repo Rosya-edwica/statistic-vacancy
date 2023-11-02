@@ -1,176 +1,221 @@
-INFO:2023/11/02 12:59:31 statistic.go:22: Обновляем стату: 13477.	PositionId: 323	CityId:1	Count:3926	Exp:От 1 года до 3 лет	Salary:197297.119471	SpecsCount:6	AreasCount:4	
-INFO:2023/11/02 12:59:31 statistic.go:22: Обновляем стату: 13837.	PositionId: 678	CityId:1	Count:838	Exp:От 1 года до 3 лет	Salary:281476.597466	SpecsCount:3	AreasCount:2	
-INFO:2023/11/02 12:59:31 statistic.go:22: Обновляем стату: 14121.	PositionId: 677	CityId:1	Count:589	Exp:От 1 года до 3 лет	Salary:185379.837391	SpecsCount:3	AreasCount:1	
-INFO:2023/11/02 12:59:31 statistic.go:22: Обновляем стату: 20953.	PositionId: 676	CityId:1	Count:185	Exp:От 1 года до 3 лет	Salary:150021.120085	SpecsCount:3	AreasCount:1	
-INFO:2023/11/02 12:59:31 statistic.go:22: Обновляем стату: 17986.	PositionId: 323	CityId:76	Count:163	Exp:От 1 года до 3 лет	Salary:200383.789474	SpecsCount:5	AreasCount:4	
-INFO:2023/11/02 12:59:32 statistic.go:22: Обновляем стату: 26551.	PositionId: 675	CityId:1	Count:122	Exp:Нет опыта	Salary:207380.128125	SpecsCount:3	AreasCount:1	
-INFO:2023/11/02 12:59:32 statistic.go:22: Обновляем стату: 23159.	PositionId: 678	CityId:76	Count:46	Exp:От 3 до 6 лет	Salary:294647.566667	SpecsCount:3	AreasCount:1	
-INFO:2023/11/02 12:59:32 statistic.go:22: Обновляем стату: 22883.	PositionId: 323	CityId:279	Count:45	Exp:От 1 года до 3 лет	Salary:137208.333333	SpecsCount:2	AreasCount:2	
-INFO:2023/11/02 12:59:32 statistic.go:22: Обновляем стату: 25132.	PositionId: 323	CityId:379	Count:30	Exp:От 1 года до 3 лет	Salary:185000.000000	SpecsCount:2	AreasCount:1	
-INFO:2023/11/02 12:59:33 statistic.go:22: Обновляем стату: 25617.	PositionId: 323	CityId:442	Count:27	Exp:От 1 года до 3 лет	Salary:204444.444444	SpecsCount:1	AreasCount:2	
-INFO:2023/11/02 12:59:33 statistic.go:22: Обновляем стату: 29090.	PositionId: 677	CityId:76	Count:25	Exp:От 1 года до 3 лет	Salary:248611.111111	SpecsCount:3	AreasCount:1	
-INFO:2023/11/02 12:59:33 statistic.go:22: Обновляем стату: 27366.	PositionId: 323	CityId:267	Count:24	Exp:От 1 года до 3 лет	Salary:125264.600000	SpecsCount:1	AreasCount:3	
-INFO:2023/11/02 12:59:34 statistic.go:22: Обновляем стату: 29572.	PositionId: 323	CityId:495	Count:18	Exp:От 1 года до 3 лет	Salary:106666.666667	SpecsCount:2	AreasCount:2	
-INFO:2023/11/02 12:59:34 statistic.go:22: Обновляем стату: 30145.	PositionId: 323	CityId:417	Count:15	Exp:От 1 года до 3 лет	Salary:350000.000000	SpecsCount:1	AreasCount:1	
-INFO:2023/11/02 12:59:34 statistic.go:22: Обновляем стату: 49838.	PositionId: 323	CityId:204	Count:14	Exp:От 1 года до 3 лет	Salary:195000.000000	SpecsCount:2	AreasCount:1	
-INFO:2023/11/02 12:59:34 statistic.go:22: Обновляем стату: 49839.	PositionId: 323	CityId:402	Count:14	Exp:Нет опыта	Salary:60000.000000	SpecsCount:2	AreasCount:1	
-INFO:2023/11/02 12:59:54 statistic.go:22: Обновляем стату: 13477.	PositionId: 323	CityId:1	Count:3926	Exp:От 1 года до 3 лет	Salary:197297.119471	SpecsCount:6	AreasCount:4	
-INFO:2023/11/02 12:59:54 statistic.go:22: Обновляем стату: 13837.	PositionId: 678	CityId:1	Count:838	Exp:От 1 года до 3 лет	Salary:281476.597466	SpecsCount:3	AreasCount:2	
-INFO:2023/11/02 12:59:55 statistic.go:22: Обновляем стату: 14121.	PositionId: 677	CityId:1	Count:589	Exp:От 1 года до 3 лет	Salary:185379.837391	SpecsCount:3	AreasCount:1	
-INFO:2023/11/02 12:59:55 statistic.go:22: Обновляем стату: 20953.	PositionId: 676	CityId:1	Count:185	Exp:От 1 года до 3 лет	Salary:150021.120085	SpecsCount:3	AreasCount:1	
-INFO:2023/11/02 12:59:55 statistic.go:22: Обновляем стату: 17986.	PositionId: 323	CityId:76	Count:163	Exp:От 1 года до 3 лет	Salary:200383.789474	SpecsCount:5	AreasCount:4	
-INFO:2023/11/02 12:59:55 statistic.go:22: Обновляем стату: 26551.	PositionId: 675	CityId:1	Count:122	Exp:Нет опыта	Salary:207380.128125	SpecsCount:3	AreasCount:1	
-INFO:2023/11/02 12:59:55 statistic.go:22: Обновляем стату: 23159.	PositionId: 678	CityId:76	Count:46	Exp:От 3 до 6 лет	Salary:294647.566667	SpecsCount:3	AreasCount:1	
-INFO:2023/11/02 12:59:56 statistic.go:22: Обновляем стату: 22883.	PositionId: 323	CityId:279	Count:45	Exp:От 1 года до 3 лет	Salary:137208.333333	SpecsCount:2	AreasCount:2	
-INFO:2023/11/02 12:59:56 statistic.go:22: Обновляем стату: 25132.	PositionId: 323	CityId:379	Count:30	Exp:От 1 года до 3 лет	Salary:185000.000000	SpecsCount:2	AreasCount:1	
-INFO:2023/11/02 12:59:56 statistic.go:22: Обновляем стату: 25617.	PositionId: 323	CityId:442	Count:27	Exp:От 1 года до 3 лет	Salary:204444.444444	SpecsCount:1	AreasCount:2	
-INFO:2023/11/02 12:59:56 statistic.go:22: Обновляем стату: 29090.	PositionId: 677	CityId:76	Count:25	Exp:От 1 года до 3 лет	Salary:248611.111111	SpecsCount:3	AreasCount:1	
-INFO:2023/11/02 12:59:57 statistic.go:22: Обновляем стату: 27366.	PositionId: 323	CityId:267	Count:24	Exp:От 1 года до 3 лет	Salary:125264.600000	SpecsCount:1	AreasCount:3	
-INFO:2023/11/02 12:59:57 statistic.go:22: Обновляем стату: 29572.	PositionId: 323	CityId:495	Count:18	Exp:От 1 года до 3 лет	Salary:106666.666667	SpecsCount:2	AreasCount:2	
-INFO:2023/11/02 12:59:57 statistic.go:22: Обновляем стату: 30145.	PositionId: 323	CityId:417	Count:15	Exp:От 1 года до 3 лет	Salary:350000.000000	SpecsCount:1	AreasCount:1	
-INFO:2023/11/02 12:59:57 statistic.go:22: Обновляем стату: 49838.	PositionId: 323	CityId:204	Count:14	Exp:От 1 года до 3 лет	Salary:195000.000000	SpecsCount:2	AreasCount:1	
-INFO:2023/11/02 12:59:57 statistic.go:22: Обновляем стату: 49839.	PositionId: 323	CityId:402	Count:14	Exp:Нет опыта	Salary:60000.000000	SpecsCount:2	AreasCount:1	
-INFO:2023/11/02 12:59:57 statistic.go:22: Обновляем стату: 121773.	PositionId: 678	CityId:267	Count:12	Exp:От 3 до 6 лет	Salary:NaN	SpecsCount:1	AreasCount:1	
-INFO:2023/11/02 13:01:42 statistic.go:23: Обновляем стату: 13477.	PositionId: 323	CityId:1	Count:3926	Exp:От 1 года до 3 лет	Salary:197297.119471	SpecsCount:6	AreasCount:4	
-INFO:2023/11/02 13:01:43 statistic.go:23: Обновляем стату: 13837.	PositionId: 678	CityId:1	Count:838	Exp:От 1 года до 3 лет	Salary:281476.597466	SpecsCount:3	AreasCount:2	
-INFO:2023/11/02 13:01:43 statistic.go:23: Обновляем стату: 14121.	PositionId: 677	CityId:1	Count:589	Exp:От 1 года до 3 лет	Salary:185379.837391	SpecsCount:3	AreasCount:1	
-INFO:2023/11/02 13:01:43 statistic.go:23: Обновляем стату: 20953.	PositionId: 676	CityId:1	Count:185	Exp:От 1 года до 3 лет	Salary:150021.120085	SpecsCount:3	AreasCount:1	
-INFO:2023/11/02 13:01:43 statistic.go:23: Обновляем стату: 17986.	PositionId: 323	CityId:76	Count:163	Exp:От 1 года до 3 лет	Salary:200383.789474	SpecsCount:5	AreasCount:4	
-INFO:2023/11/02 13:01:44 statistic.go:23: Обновляем стату: 26551.	PositionId: 675	CityId:1	Count:122	Exp:Нет опыта	Salary:207380.128125	SpecsCount:3	AreasCount:1	
-INFO:2023/11/02 13:01:44 statistic.go:23: Обновляем стату: 23159.	PositionId: 678	CityId:76	Count:46	Exp:От 3 до 6 лет	Salary:294647.566667	SpecsCount:3	AreasCount:1	
-INFO:2023/11/02 13:01:44 statistic.go:23: Обновляем стату: 22883.	PositionId: 323	CityId:279	Count:45	Exp:От 1 года до 3 лет	Salary:137208.333333	SpecsCount:2	AreasCount:2	
-INFO:2023/11/02 13:01:44 statistic.go:23: Обновляем стату: 25132.	PositionId: 323	CityId:379	Count:30	Exp:От 1 года до 3 лет	Salary:185000.000000	SpecsCount:2	AreasCount:1	
-INFO:2023/11/02 13:01:44 statistic.go:23: Обновляем стату: 25617.	PositionId: 323	CityId:442	Count:27	Exp:От 1 года до 3 лет	Salary:204444.444444	SpecsCount:1	AreasCount:2	
-INFO:2023/11/02 13:01:44 statistic.go:23: Обновляем стату: 29090.	PositionId: 677	CityId:76	Count:25	Exp:От 1 года до 3 лет	Salary:248611.111111	SpecsCount:3	AreasCount:1	
-INFO:2023/11/02 13:01:45 statistic.go:23: Обновляем стату: 27366.	PositionId: 323	CityId:267	Count:24	Exp:От 1 года до 3 лет	Salary:125264.600000	SpecsCount:1	AreasCount:3	
-INFO:2023/11/02 13:01:45 statistic.go:23: Обновляем стату: 29572.	PositionId: 323	CityId:495	Count:18	Exp:От 1 года до 3 лет	Salary:106666.666667	SpecsCount:2	AreasCount:2	
-INFO:2023/11/02 13:01:45 statistic.go:23: Обновляем стату: 30145.	PositionId: 323	CityId:417	Count:15	Exp:От 1 года до 3 лет	Salary:350000.000000	SpecsCount:1	AreasCount:1	
-INFO:2023/11/02 13:01:45 statistic.go:23: Обновляем стату: 49838.	PositionId: 323	CityId:204	Count:14	Exp:От 1 года до 3 лет	Salary:195000.000000	SpecsCount:2	AreasCount:1	
-INFO:2023/11/02 13:01:45 statistic.go:23: Обновляем стату: 49839.	PositionId: 323	CityId:402	Count:14	Exp:Нет опыта	Salary:60000.000000	SpecsCount:2	AreasCount:1	
-INFO:2023/11/02 13:01:46 statistic.go:23: Обновляем стату: 121773.	PositionId: 678	CityId:267	Count:12	Exp:От 3 до 6 лет	Salary:NaN	SpecsCount:1	AreasCount:1	
-INFO:2023/11/02 13:01:46 statistic.go:23: Обновляем стату: 51707.	PositionId: 678	CityId:279	Count:12	Exp:От 3 до 6 лет	Salary:198250.000000	SpecsCount:2	AreasCount:1	
-INFO:2023/11/02 13:01:46 statistic.go:23: Обновляем стату: 52969.	PositionId: 323	CityId:138	Count:10	Exp:От 1 года до 3 лет	Salary:175000.000000	SpecsCount:1	AreasCount:1	
-INFO:2023/11/02 13:01:46 statistic.go:23: Обновляем стату: 54201.	PositionId: 323	CityId:127	Count:9	Exp:От 1 года до 3 лет	Salary:75125.000000	SpecsCount:1	AreasCount:1	
-INFO:2023/11/02 13:01:46 statistic.go:23: Обновляем стату: 121771.	PositionId: 675	CityId:76	Count:9	Exp:От 1 года до 3 лет	Salary:302916.666667	SpecsCount:3	AreasCount:1	
-INFO:2023/11/02 13:01:46 statistic.go:23: Обновляем стату: 95628.	PositionId: 676	CityId:76	Count:9	Exp:От 1 года до 3 лет	Salary:268214.285714	SpecsCount:3	AreasCount:1	
-INFO:2023/11/02 13:01:46 statistic.go:23: Обновляем стату: 59775.	PositionId: 678	CityId:379	Count:8	Exp:От 3 до 6 лет	Salary:198333.333333	SpecsCount:2	AreasCount:1	
-INFO:2023/11/02 13:01:47 statistic.go:23: Обновляем стату: 121774.	PositionId: 678	CityId:417	Count:8	Exp:От 3 до 6 лет	Salary:NaN	SpecsCount:1	AreasCount:1	
-INFO:2023/11/02 13:01:47 statistic.go:23: Обновляем стату: 59639.	PositionId: 323	CityId:548	Count:7	Exp:От 1 года до 3 лет	Salary:122131.250000	SpecsCount:2	AreasCount:1	
-INFO:2023/11/02 13:01:47 statistic.go:23: Обновляем стату: 121772.	PositionId: 677	CityId:379	Count:7	Exp:От 1 года до 3 лет	Salary:162500.000000	SpecsCount:2	AreasCount:1	
-INFO:2023/11/02 13:01:47 statistic.go:23: Обновляем стату: 121775.	PositionId: 678	CityId:495	Count:7	Exp:От 3 до 6 лет	Salary:NaN	SpecsCount:1	AreasCount:1	
-INFO:2023/11/02 13:01:47 statistic.go:23: Обновляем стату: 59638.	PositionId: 323	CityId:337	Count:6	Exp:От 1 года до 3 лет	Salary:179166.666667	SpecsCount:1	AreasCount:1	
-INFO:2023/11/02 13:01:47 statistic.go:23: Обновляем стату: 62274.	PositionId: 323	CityId:569	Count:6	Exp:От 1 года до 3 лет	Salary:166625.000000	SpecsCount:1	AreasCount:2	
-INFO:2023/11/02 13:01:47 statistic.go:23: Обновляем стату: 59776.	PositionId: 678	CityId:442	Count:6	Exp:От 3 до 6 лет	Salary:280000.000000	SpecsCount:1	AreasCount:1	
-INFO:2023/11/02 13:01:48 statistic.go:23: Обновляем стату: 62273.	PositionId: 323	CityId:281	Count:5	Exp:От 1 года до 3 лет	Salary:105000.000000	SpecsCount:1	AreasCount:1	
-INFO:2023/11/02 13:01:48 statistic.go:23: Обновляем стату: 65992.	PositionId: 323	CityId:508	Count:5	Exp:От 1 года до 3 лет	Salary:126000.000000	SpecsCount:1	AreasCount:2	
-INFO:2023/11/02 13:01:48 statistic.go:23: Обновляем стату: 121776.	PositionId: 323	CityId:512	Count:5	Exp:От 1 года до 3 лет	Salary:30000.000000	SpecsCount:1	AreasCount:2	
-INFO:2023/11/02 13:01:48 statistic.go:23: Обновляем стату: 65993.	PositionId: 323	CityId:519	Count:5	Exp:От 1 года до 3 лет	Salary:236666.666667	SpecsCount:1	AreasCount:2	
-INFO:2023/11/02 13:01:48 statistic.go:23: Обновляем стату: 79419.	PositionId: 323	CityId:134	Count:4	Exp:Нет опыта	Salary:72500.000000	SpecsCount:1	AreasCount:2	
-INFO:2023/11/02 13:01:48 statistic.go:23: Обновляем стату: 71187.	PositionId: 323	CityId:219	Count:4	Exp:Нет опыта	Salary:60000.000000	SpecsCount:1	AreasCount:2	
-INFO:2023/11/02 13:01:49 statistic.go:23: Обновляем стату: 121777.	PositionId: 323	CityId:303	Count:4	Exp:От 1 года до 3 лет	Salary:30000.000000	SpecsCount:1	AreasCount:2	
-INFO:2023/11/02 13:01:49 statistic.go:23: Обновляем стату: 65994.	PositionId: 323	CityId:522	Count:4	Exp:От 1 года до 3 лет	Salary:212500.000000	SpecsCount:1	AreasCount:1	
-INFO:2023/11/02 13:01:49 statistic.go:23: Обновляем стату: 71607.	PositionId: 677	CityId:204	Count:4	Exp:От 1 года до 3 лет	Salary:175000.000000	SpecsCount:2	AreasCount:1	
-INFO:2023/11/02 13:01:49 statistic.go:23: Обновляем стату: 71608.	PositionId: 677	CityId:279	Count:4	Exp:От 1 года до 3 лет	Salary:120500.000000	SpecsCount:2	AreasCount:1	
-INFO:2023/11/02 13:01:49 statistic.go:23: Обновляем стату: 71609.	PositionId: 677	CityId:402	Count:4	Exp:От 1 года до 3 лет	Salary:70000.000000	SpecsCount:2	AreasCount:1	
-INFO:2023/11/02 13:01:49 statistic.go:23: Обновляем стату: 71610.	PositionId: 678	CityId:204	Count:4	Exp:От 1 года до 3 лет	Salary:215000.000000	SpecsCount:2	AreasCount:1	
-INFO:2023/11/02 13:01:49 statistic.go:23: Обновляем стату: 71185.	PositionId: 323	CityId:107	Count:3	Exp:От 1 года до 3 лет	Salary:25000.000000	SpecsCount:1	AreasCount:1	
-INFO:2023/11/02 13:01:50 statistic.go:23: Обновляем стату: 71186.	PositionId: 323	CityId:155	Count:3	Exp:Нет опыта	Salary:79833.333333	SpecsCount:1	AreasCount:1	
-INFO:2023/11/02 13:01:50 statistic.go:23: Обновляем стату: 79420.	PositionId: 323	CityId:164	Count:3	Exp:Нет опыта	Salary:87500.000000	SpecsCount:1	AreasCount:2	
-INFO:2023/11/02 13:01:50 statistic.go:23: Обновляем стату: 121778.	PositionId: 323	CityId:231	Count:3	Exp:Нет опыта	Salary:NaN	SpecsCount:1	AreasCount:2	
-INFO:2023/11/02 13:01:50 statistic.go:23: Обновляем стату: 121779.	PositionId: 323	CityId:296	Count:3	Exp:От 1 года до 3 лет	Salary:NaN	SpecsCount:1	AreasCount:1	
-INFO:2023/11/02 13:01:50 statistic.go:23: Обновляем стату: 71188.	PositionId: 323	CityId:311	Count:3	Exp:Нет опыта	Salary:150000.000000	SpecsCount:1	AreasCount:1	
-INFO:2023/11/02 13:01:50 statistic.go:23: Обновляем стату: 80062.	PositionId: 676	CityId:279	Count:3	Exp:От 1 года до 3 лет	Salary:120500.000000	SpecsCount:2	AreasCount:1	
-INFO:2023/11/02 13:01:51 statistic.go:23: Обновляем стату: 121780.	PositionId: 677	CityId:267	Count:3	Exp:От 1 года до 3 лет	Salary:NaN	SpecsCount:1	AreasCount:1	
-INFO:2023/11/02 13:01:51 statistic.go:23: Обновляем стату: 121781.	PositionId: 678	CityId:512	Count:3	Exp:От 1 года до 3 лет	Salary:30000.000000	SpecsCount:1	AreasCount:2	
-INFO:2023/11/02 13:01:51 statistic.go:23: Обновляем стату: 121782.	PositionId: 323	CityId:81	Count:2	Exp:От 1 года до 3 лет	Salary:100000.000000	SpecsCount:2	AreasCount:1	
-INFO:2023/11/02 13:01:51 statistic.go:23: Обновляем стату: 121783.	PositionId: 323	CityId:120	Count:2	Exp:От 1 года до 3 лет	Salary:NaN	SpecsCount:1	AreasCount:1	
-INFO:2023/11/02 13:01:51 statistic.go:23: Обновляем стату: 121784.	PositionId: 323	CityId:182	Count:2	Exp:От 3 до 6 лет	Salary:NaN	SpecsCount:1	AreasCount:1	
-INFO:2023/11/02 13:01:51 statistic.go:23: Обновляем стату: 121785.	PositionId: 323	CityId:430	Count:2	Exp:От 1 года до 3 лет	Salary:NaN	SpecsCount:1	AreasCount:1	
-INFO:2023/11/02 13:01:51 statistic.go:23: Обновляем стату: 79421.	PositionId: 323	CityId:464	Count:2	Exp:От 1 года до 3 лет	Salary:90000.000000	SpecsCount:1	AreasCount:1	
-INFO:2023/11/02 13:01:52 statistic.go:23: Обновляем стату: 121786.	PositionId: 323	CityId:556	Count:2	Exp:От 1 года до 3 лет	Salary:NaN	SpecsCount:1	AreasCount:1	
-INFO:2023/11/02 13:01:52 statistic.go:23: Обновляем стату: 121787.	PositionId: 675	CityId:279	Count:2	Exp:От 1 года до 3 лет	Salary:171500.000000	SpecsCount:2	AreasCount:1	
-INFO:2023/11/02 13:01:52 statistic.go:23: Обновляем стату: 121788.	PositionId: 675	CityId:379	Count:2	Exp:От 1 года до 3 лет	Salary:162500.000000	SpecsCount:1	AreasCount:1	
-INFO:2023/11/02 13:01:52 statistic.go:23: Обновляем стату: 121789.	PositionId: 675	CityId:495	Count:2	Exp:Нет опыта	Salary:NaN	SpecsCount:1	AreasCount:1	
-INFO:2023/11/02 13:01:52 statistic.go:23: Обновляем стату: 121790.	PositionId: 676	CityId:379	Count:2	Exp:От 1 года до 3 лет	Salary:162500.000000	SpecsCount:1	AreasCount:1	
-INFO:2023/11/02 13:01:52 statistic.go:23: Обновляем стату: 95631.	PositionId: 676	CityId:402	Count:2	Exp:Нет опыта	Salary:40000.000000	SpecsCount:2	AreasCount:1	
-INFO:2023/11/02 13:01:53 statistic.go:23: Обновляем стату: 121791.	PositionId: 677	CityId:107	Count:2	Exp:От 3 до 6 лет	Salary:NaN	SpecsCount:1	AreasCount:1	
-INFO:2023/11/02 13:01:53 statistic.go:23: Обновляем стату: 80063.	PositionId: 677	CityId:127	Count:2	Exp:От 1 года до 3 лет	Salary:52500.000000	SpecsCount:1	AreasCount:1	
-INFO:2023/11/02 13:01:53 statistic.go:23: Обновляем стату: 121792.	PositionId: 677	CityId:303	Count:2	Exp:От 1 года до 3 лет	Salary:NaN	SpecsCount:1	AreasCount:1	
-INFO:2023/11/02 13:01:54 statistic.go:23: Обновляем стату: 121793.	PositionId: 677	CityId:442	Count:2	Exp:От 3 до 6 лет	Salary:NaN	SpecsCount:1	AreasCount:1	
-INFO:2023/11/02 13:01:54 statistic.go:23: Обновляем стату: 80064.	PositionId: 677	CityId:519	Count:2	Exp:От 1 года до 3 лет	Salary:140000.000000	SpecsCount:1	AreasCount:1	
-INFO:2023/11/02 13:01:54 statistic.go:23: Обновляем стату: 121794.	PositionId: 678	CityId:127	Count:2	Exp:От 1 года до 3 лет	Salary:NaN	SpecsCount:1	AreasCount:1	
-INFO:2023/11/02 13:01:54 statistic.go:23: Обновляем стату: 80065.	PositionId: 678	CityId:134	Count:2	Exp:От 1 года до 3 лет	Salary:53750.000000	SpecsCount:1	AreasCount:1	
-INFO:2023/11/02 13:01:54 statistic.go:23: Обновляем стату: 121795.	PositionId: 678	CityId:281	Count:2	Exp:От 3 до 6 лет	Salary:NaN	SpecsCount:1	AreasCount:1	
-INFO:2023/11/02 13:01:55 statistic.go:23: Обновляем стату: 80066.	PositionId: 678	CityId:337	Count:2	Exp:От 3 до 6 лет	Salary:240000.000000	SpecsCount:1	AreasCount:1	
-INFO:2023/11/02 13:01:55 statistic.go:23: Обновляем стату: 121796.	PositionId: 678	CityId:402	Count:2	Exp:Нет опыта	Salary:NaN	SpecsCount:2	AreasCount:1	
-INFO:2023/11/02 13:01:55 statistic.go:23: Обновляем стату: 80067.	PositionId: 678	CityId:519	Count:2	Exp:От 3 до 6 лет	Salary:140000.000000	SpecsCount:1	AreasCount:1	
-INFO:2023/11/02 13:01:55 statistic.go:23: Обновляем стату: 121797.	PositionId: 678	CityId:548	Count:2	Exp:От 1 года до 3 лет	Salary:140000.000000	SpecsCount:2	AreasCount:1	
-INFO:2023/11/02 13:01:55 statistic.go:23: Обновляем стату: 80068.	PositionId: 678	CityId:569	Count:2	Exp:От 3 до 6 лет	Salary:329000.000000	SpecsCount:1	AreasCount:1	
-INFO:2023/11/02 13:01:56 statistic.go:23: Обновляем стату: 121798.	PositionId: 323	CityId:24	Count:1	Exp:	Salary:74000.000000	SpecsCount:1	AreasCount:1	
-INFO:2023/11/02 13:01:56 statistic.go:23: Обновляем стату: 121799.	PositionId: 323	CityId:33	Count:1	Exp:	Salary:40000.000000	SpecsCount:1	AreasCount:1	
-INFO:2023/11/02 13:01:56 statistic.go:23: Обновляем стату: 94384.	PositionId: 323	CityId:99	Count:1	Exp:От 1 года до 3 лет	Salary:138000.000000	SpecsCount:1	AreasCount:1	
-INFO:2023/11/02 13:01:56 statistic.go:23: Обновляем стату: 121800.	PositionId: 323	CityId:104	Count:1	Exp:От 1 года до 3 лет	Salary:NaN	SpecsCount:1	AreasCount:1	
-INFO:2023/11/02 13:01:56 statistic.go:23: Обновляем стату: 94385.	PositionId: 323	CityId:171	Count:1	Exp:От 1 года до 3 лет	Salary:150000.000000	SpecsCount:1	AreasCount:1	
-INFO:2023/11/02 13:01:56 statistic.go:23: Обновляем стату: 121801.	PositionId: 323	CityId:172	Count:1	Exp:	Salary:30000.000000	SpecsCount:1	AreasCount:1	
-INFO:2023/11/02 13:01:57 statistic.go:23: Обновляем стату: 94386.	PositionId: 323	CityId:194	Count:1	Exp:От 1 года до 3 лет	Salary:184000.000000	SpecsCount:1	AreasCount:1	
-INFO:2023/11/02 13:01:57 statistic.go:23: Обновляем стату: 121802.	PositionId: 323	CityId:210	Count:1	Exp:От 3 до 6 лет	Salary:210000.000000	SpecsCount:1	AreasCount:1	
-INFO:2023/11/02 13:01:57 statistic.go:23: Обновляем стату: 121803.	PositionId: 323	CityId:216	Count:1	Exp:	Salary:90000.000000	SpecsCount:1	AreasCount:1	
-INFO:2023/11/02 13:01:57 statistic.go:23: Обновляем стату: 121804.	PositionId: 323	CityId:255	Count:1	Exp:	Salary:55000.000000	SpecsCount:1	AreasCount:1	
-INFO:2023/11/02 13:01:57 statistic.go:23: Обновляем стату: 94387.	PositionId: 323	CityId:287	Count:1	Exp:От 1 года до 3 лет	Salary:125000.000000	SpecsCount:1	AreasCount:1	
-INFO:2023/11/02 13:01:57 statistic.go:23: Обновляем стату: 121805.	PositionId: 323	CityId:291	Count:1	Exp:От 1 года до 3 лет	Salary:NaN	SpecsCount:1	AreasCount:1	
-INFO:2023/11/02 13:01:57 statistic.go:23: Обновляем стату: 121806.	PositionId: 323	CityId:319	Count:1	Exp:	Salary:400000.000000	SpecsCount:1	AreasCount:1	
-INFO:2023/11/02 13:01:58 statistic.go:23: Обновляем стату: 121807.	PositionId: 323	CityId:365	Count:1	Exp:От 1 года до 3 лет	Salary:NaN	SpecsCount:1	AreasCount:1	
-INFO:2023/11/02 13:01:58 statistic.go:23: Обновляем стату: 94388.	PositionId: 323	CityId:371	Count:1	Exp:Нет опыта	Salary:240000.000000	SpecsCount:1	AreasCount:1	
-INFO:2023/11/02 13:01:58 statistic.go:23: Обновляем стату: 121808.	PositionId: 323	CityId:408	Count:1	Exp:От 1 года до 3 лет	Salary:NaN	SpecsCount:1	AreasCount:1	
-INFO:2023/11/02 13:01:58 statistic.go:23: Обновляем стату: 94389.	PositionId: 323	CityId:419	Count:1	Exp:От 3 до 6 лет	Salary:80000.000000	SpecsCount:1	AreasCount:1	
-INFO:2023/11/02 13:01:58 statistic.go:23: Обновляем стату: 94390.	PositionId: 323	CityId:475	Count:1	Exp:От 3 до 6 лет	Salary:200000.000000	SpecsCount:1	AreasCount:1	
-INFO:2023/11/02 13:01:58 statistic.go:23: Обновляем стату: 94391.	PositionId: 323	CityId:490	Count:1	Exp:От 1 года до 3 лет	Salary:75000.000000	SpecsCount:1	AreasCount:1	
-INFO:2023/11/02 13:01:59 statistic.go:23: Обновляем стату: 121809.	PositionId: 323	CityId:5671	Count:1	Exp:От 1 года до 3 лет	Salary:NaN	SpecsCount:1	AreasCount:1	
-INFO:2023/11/02 13:01:59 statistic.go:23: Обновляем стату: 121810.	PositionId: 323	CityId:7146	Count:1	Exp:Нет опыта	Salary:175000.000000	SpecsCount:1	AreasCount:1	
-INFO:2023/11/02 13:01:59 statistic.go:23: Обновляем стату: 121811.	PositionId: 675	CityId:81	Count:1	Exp:Нет опыта	Salary:NaN	SpecsCount:1	AreasCount:1	
-INFO:2023/11/02 13:01:59 statistic.go:23: Обновляем стату: 121812.	PositionId: 675	CityId:204	Count:1	Exp:От 1 года до 3 лет	Salary:150000.000000	SpecsCount:1	AreasCount:1	
-INFO:2023/11/02 13:01:59 statistic.go:23: Обновляем стату: 121813.	PositionId: 675	CityId:210	Count:1	Exp:От 3 до 6 лет	Salary:210000.000000	SpecsCount:1	AreasCount:1	
-INFO:2023/11/02 13:01:59 statistic.go:23: Обновляем стату: 121814.	PositionId: 675	CityId:219	Count:1	Exp:Нет опыта	Salary:NaN	SpecsCount:1	AreasCount:1	
-INFO:2023/11/02 13:01:59 statistic.go:23: Обновляем стату: 121815.	PositionId: 675	CityId:402	Count:1	Exp:Нет опыта	Salary:NaN	SpecsCount:1	AreasCount:1	
-INFO:2023/11/02 13:02:00 statistic.go:23: Обновляем стату: 121816.	PositionId: 675	CityId:548	Count:1	Exp:От 1 года до 3 лет	Salary:140000.000000	SpecsCount:1	AreasCount:1	
-INFO:2023/11/02 13:02:00 statistic.go:23: Обновляем стату: 121817.	PositionId: 675	CityId:7146	Count:1	Exp:Нет опыта	Salary:175000.000000	SpecsCount:1	AreasCount:1	
-INFO:2023/11/02 13:02:00 statistic.go:23: Обновляем стату: 95629.	PositionId: 676	CityId:127	Count:1	Exp:Нет опыта	Salary:30000.000000	SpecsCount:1	AreasCount:1	
-INFO:2023/11/02 13:02:00 statistic.go:23: Обновляем стату: 121818.	PositionId: 676	CityId:134	Count:1	Exp:	Salary:52500.000000	SpecsCount:1	AreasCount:1	
-INFO:2023/11/02 13:02:00 statistic.go:23: Обновляем стату: 121819.	PositionId: 676	CityId:204	Count:1	Exp:От 1 года до 3 лет	Salary:150000.000000	SpecsCount:1	AreasCount:1	
-INFO:2023/11/02 13:02:00 statistic.go:23: Обновляем стату: 121820.	PositionId: 676	CityId:210	Count:1	Exp:От 3 до 6 лет	Salary:210000.000000	SpecsCount:1	AreasCount:1	
-INFO:2023/11/02 13:02:00 statistic.go:23: Обновляем стату: 95630.	PositionId: 676	CityId:219	Count:1	Exp:От 1 года до 3 лет	Salary:80000.000000	SpecsCount:1	AreasCount:1	
-INFO:2023/11/02 13:02:01 statistic.go:23: Обновляем стату: 121821.	PositionId: 676	CityId:495	Count:1	Exp:От 1 года до 3 лет	Salary:NaN	SpecsCount:1	AreasCount:1	
-INFO:2023/11/02 13:02:01 statistic.go:23: Обновляем стату: 95632.	PositionId: 676	CityId:522	Count:1	Exp:Нет опыта	Salary:240000.000000	SpecsCount:1	AreasCount:1	
-INFO:2023/11/02 13:02:01 statistic.go:23: Обновляем стату: 121822.	PositionId: 676	CityId:548	Count:1	Exp:От 1 года до 3 лет	Salary:140000.000000	SpecsCount:1	AreasCount:1	
-INFO:2023/11/02 13:02:01 statistic.go:23: Обновляем стату: 121823.	PositionId: 676	CityId:7146	Count:1	Exp:Нет опыта	Salary:175000.000000	SpecsCount:1	AreasCount:1	
-INFO:2023/11/02 13:02:01 statistic.go:23: Обновляем стату: 121824.	PositionId: 677	CityId:104	Count:1	Exp:От 1 года до 3 лет	Salary:NaN	SpecsCount:1	AreasCount:1	
-INFO:2023/11/02 13:02:02 statistic.go:23: Обновляем стату: 121825.	PositionId: 677	CityId:134	Count:1	Exp:	Salary:130000.000000	SpecsCount:1	AreasCount:1	
-INFO:2023/11/02 13:02:02 statistic.go:23: Обновляем стату: 121826.	PositionId: 677	CityId:138	Count:1	Exp:От 1 года до 3 лет	Salary:NaN	SpecsCount:1	AreasCount:1	
-INFO:2023/11/02 13:02:02 statistic.go:23: Обновляем стату: 121827.	PositionId: 677	CityId:164	Count:1	Exp:От 1 года до 3 лет	Salary:NaN	SpecsCount:1	AreasCount:1	
-INFO:2023/11/02 13:02:02 statistic.go:23: Обновляем стату: 121828.	PositionId: 677	CityId:210	Count:1	Exp:От 3 до 6 лет	Salary:210000.000000	SpecsCount:1	AreasCount:1	
-INFO:2023/11/02 13:02:02 statistic.go:23: Обновляем стату: 121829.	PositionId: 677	CityId:291	Count:1	Exp:От 1 года до 3 лет	Salary:NaN	SpecsCount:1	AreasCount:1	
-INFO:2023/11/02 13:02:02 statistic.go:23: Обновляем стату: 121830.	PositionId: 677	CityId:296	Count:1	Exp:От 1 года до 3 лет	Salary:NaN	SpecsCount:1	AreasCount:1	
-INFO:2023/11/02 13:02:03 statistic.go:23: Обновляем стату: 95633.	PositionId: 677	CityId:371	Count:1	Exp:Нет опыта	Salary:240000.000000	SpecsCount:1	AreasCount:1	
-INFO:2023/11/02 13:02:03 statistic.go:23: Обновляем стату: 95634.	PositionId: 677	CityId:419	Count:1	Exp:От 3 до 6 лет	Salary:80000.000000	SpecsCount:1	AreasCount:1	
-INFO:2023/11/02 13:02:03 statistic.go:23: Обновляем стату: 95635.	PositionId: 677	CityId:495	Count:1	Exp:От 1 года до 3 лет	Salary:170000.000000	SpecsCount:1	AreasCount:1	
-INFO:2023/11/02 13:02:03 statistic.go:23: Обновляем стату: 95636.	PositionId: 677	CityId:508	Count:1	Exp:От 1 года до 3 лет	Salary:100000.000000	SpecsCount:1	AreasCount:1	
-INFO:2023/11/02 13:02:03 statistic.go:23: Обновляем стату: 121831.	PositionId: 677	CityId:512	Count:1	Exp:От 3 до 6 лет	Salary:NaN	SpecsCount:1	AreasCount:1	
-INFO:2023/11/02 13:02:03 statistic.go:23: Обновляем стату: 121832.	PositionId: 677	CityId:548	Count:1	Exp:От 1 года до 3 лет	Salary:140000.000000	SpecsCount:1	AreasCount:1	
-INFO:2023/11/02 13:02:03 statistic.go:23: Обновляем стату: 121833.	PositionId: 677	CityId:7146	Count:1	Exp:Нет опыта	Salary:175000.000000	SpecsCount:1	AreasCount:1	
-INFO:2023/11/02 13:02:04 statistic.go:23: Обновляем стату: 95637.	PositionId: 678	CityId:138	Count:1	Exp:От 3 до 6 лет	Salary:200000.000000	SpecsCount:1	AreasCount:1	
-INFO:2023/11/02 13:02:04 statistic.go:23: Обновляем стату: 121834.	PositionId: 678	CityId:172	Count:1	Exp:	Salary:30000.000000	SpecsCount:1	AreasCount:1	
-INFO:2023/11/02 13:02:04 statistic.go:23: Обновляем стату: 121835.	PositionId: 678	CityId:210	Count:1	Exp:От 3 до 6 лет	Salary:210000.000000	SpecsCount:1	AreasCount:1	
-INFO:2023/11/02 13:02:04 statistic.go:23: Обновляем стату: 121836.	PositionId: 678	CityId:219	Count:1	Exp:От 1 года до 3 лет	Salary:NaN	SpecsCount:1	AreasCount:1	
-INFO:2023/11/02 13:02:04 statistic.go:23: Обновляем стату: 121837.	PositionId: 678	CityId:296	Count:1	Exp:От 3 до 6 лет	Salary:NaN	SpecsCount:1	AreasCount:1	
-INFO:2023/11/02 13:02:04 statistic.go:23: Обновляем стату: 95638.	PositionId: 678	CityId:371	Count:1	Exp:Нет опыта	Salary:240000.000000	SpecsCount:1	AreasCount:1	
-INFO:2023/11/02 13:02:04 statistic.go:23: Обновляем стату: 121838.	PositionId: 678	CityId:464	Count:1	Exp:От 3 до 6 лет	Salary:NaN	SpecsCount:1	AreasCount:1	
-INFO:2023/11/02 13:02:05 statistic.go:23: Обновляем стату: 95639.	PositionId: 678	CityId:475	Count:1	Exp:От 3 до 6 лет	Salary:200000.000000	SpecsCount:1	AreasCount:1	
-INFO:2023/11/02 13:02:05 statistic.go:23: Обновляем стату: 95640.	PositionId: 678	CityId:508	Count:1	Exp:От 3 до 6 лет	Salary:280000.000000	SpecsCount:1	AreasCount:1	
-INFO:2023/11/02 13:02:05 statistic.go:23: Обновляем стату: 95641.	PositionId: 678	CityId:522	Count:1	Exp:Нет опыта	Salary:240000.000000	SpecsCount:1	AreasCount:1	
-INFO:2023/11/02 13:02:05 statistic.go:23: Обновляем стату: 121839.	PositionId: 678	CityId:7146	Count:1	Exp:Нет опыта	Salary:175000.000000	SpecsCount:1	AreasCount:1	
-INFO:2023/11/02 13:03:19 statistic.go:23: Обновляем стату: 13477.	PositionId: 323	CityId:1	Count:3926	Exp:От 1 года до 3 лет	Salary:197297.119471	SpecsCount:6	AreasCount:4	
-INFO:2023/11/02 13:03:19 statistic.go:23: Обновляем стату: 13837.	PositionId: 678	CityId:1	Count:838	Exp:От 1 года до 3 лет	Salary:281476.597466	SpecsCount:3	AreasCount:2	
-INFO:2023/11/02 13:03:19 statistic.go:23: Обновляем стату: 14121.	PositionId: 677	CityId:1	Count:589	Exp:От 1 года до 3 лет	Salary:185379.837391	SpecsCount:3	AreasCount:1	
-INFO:2023/11/02 13:03:19 statistic.go:23: Обновляем стату: 20953.	PositionId: 676	CityId:1	Count:185	Exp:От 1 года до 3 лет	Salary:150021.120085	SpecsCount:3	AreasCount:1	
-INFO:2023/11/02 13:03:19 statistic.go:23: Обновляем стату: 17986.	PositionId: 323	CityId:76	Count:163	Exp:От 1 года до 3 лет	Salary:200383.789474	SpecsCount:5	AreasCount:4	
-INFO:2023/11/02 13:03:20 statistic.go:23: Обновляем стату: 26551.	PositionId: 675	CityId:1	Count:122	Exp:Нет опыта	Salary:207380.128125	SpecsCount:3	AreasCount:1	
+INFO:2023/11/02 13:19:30 statistic.go:23: Обновляем стату: 13457.	PositionId: 16656	CityId:1	Count:10178	Exp:Нет опыта	Salary:114679.000000	SpecsCount:278	AreasCount:58	
+INFO:2023/11/02 13:19:31 statistic.go:23: Обновляем стату: 13393.	PositionId: 841	CityId:1	Count:10064	Exp:От 1 года до 3 лет	Salary:78395.000000	SpecsCount:45	AreasCount:37	
+INFO:2023/11/02 13:19:31 statistic.go:23: Обновляем стату: 13397.	PositionId: 99	CityId:1	Count:9837	Exp:Нет опыта	Salary:63447.000000	SpecsCount:42	AreasCount:34	
+INFO:2023/11/02 13:19:32 statistic.go:23: Обновляем стату: 13396.	PositionId: 116	CityId:1	Count:9675	Exp:Нет опыта	Salary:60767.000000	SpecsCount:56	AreasCount:20	
+INFO:2023/11/02 13:19:32 statistic.go:23: Обновляем стату: 13453.	PositionId: 16656	CityId:76	Count:8539	Exp:Нет опыта	Salary:8789575.000000	SpecsCount:255	AreasCount:60	
+INFO:2023/11/02 13:19:33 statistic.go:23: Обновляем стату: 13394.	PositionId: 356	CityId:1	Count:8431	Exp:От 1 года до 3 лет	Salary:127682.000000	SpecsCount:65	AreasCount:45	
+INFO:2023/11/02 13:19:53 statistic.go:23: Обновляем стату: 13477.	PositionId: 323	CityId:1	Count:3926	Exp:От 1 года до 3 лет	Salary:197297.000000	SpecsCount:6	AreasCount:4	
+INFO:2023/11/02 13:19:54 statistic.go:23: Обновляем стату: 13837.	PositionId: 678	CityId:1	Count:838	Exp:От 1 года до 3 лет	Salary:281477.000000	SpecsCount:3	AreasCount:2	
+INFO:2023/11/02 13:19:54 statistic.go:23: Обновляем стату: 14121.	PositionId: 677	CityId:1	Count:589	Exp:От 1 года до 3 лет	Salary:185380.000000	SpecsCount:3	AreasCount:1	
+INFO:2023/11/02 13:19:54 statistic.go:23: Обновляем стату: 20953.	PositionId: 676	CityId:1	Count:185	Exp:От 1 года до 3 лет	Salary:150021.000000	SpecsCount:3	AreasCount:1	
+INFO:2023/11/02 13:19:54 statistic.go:23: Обновляем стату: 17986.	PositionId: 323	CityId:76	Count:163	Exp:От 1 года до 3 лет	Salary:200384.000000	SpecsCount:5	AreasCount:4	
+INFO:2023/11/02 13:19:54 statistic.go:23: Обновляем стату: 26551.	PositionId: 675	CityId:1	Count:122	Exp:Нет опыта	Salary:207380.000000	SpecsCount:3	AreasCount:1	
+INFO:2023/11/02 13:19:55 statistic.go:23: Обновляем стату: 23159.	PositionId: 678	CityId:76	Count:46	Exp:От 3 до 6 лет	Salary:294648.000000	SpecsCount:3	AreasCount:1	
+INFO:2023/11/02 13:19:55 statistic.go:23: Обновляем стату: 22883.	PositionId: 323	CityId:279	Count:45	Exp:От 1 года до 3 лет	Salary:137208.000000	SpecsCount:2	AreasCount:2	
+INFO:2023/11/02 13:19:55 statistic.go:23: Обновляем стату: 25132.	PositionId: 323	CityId:379	Count:30	Exp:От 1 года до 3 лет	Salary:185000.000000	SpecsCount:2	AreasCount:1	
+INFO:2023/11/02 13:19:55 statistic.go:23: Обновляем стату: 25617.	PositionId: 323	CityId:442	Count:27	Exp:От 1 года до 3 лет	Salary:204444.000000	SpecsCount:1	AreasCount:2	
+INFO:2023/11/02 13:19:55 statistic.go:23: Обновляем стату: 29090.	PositionId: 677	CityId:76	Count:25	Exp:От 1 года до 3 лет	Salary:248611.000000	SpecsCount:3	AreasCount:1	
+INFO:2023/11/02 13:19:55 statistic.go:23: Обновляем стату: 27366.	PositionId: 323	CityId:267	Count:24	Exp:От 1 года до 3 лет	Salary:125265.000000	SpecsCount:1	AreasCount:3	
+INFO:2023/11/02 13:19:56 statistic.go:23: Обновляем стату: 29572.	PositionId: 323	CityId:495	Count:18	Exp:От 1 года до 3 лет	Salary:106667.000000	SpecsCount:2	AreasCount:2	
+INFO:2023/11/02 13:19:56 statistic.go:23: Обновляем стату: 30145.	PositionId: 323	CityId:417	Count:15	Exp:От 1 года до 3 лет	Salary:350000.000000	SpecsCount:1	AreasCount:1	
+INFO:2023/11/02 13:19:56 statistic.go:23: Обновляем стату: 49838.	PositionId: 323	CityId:204	Count:14	Exp:От 1 года до 3 лет	Salary:195000.000000	SpecsCount:2	AreasCount:1	
+INFO:2023/11/02 13:19:56 statistic.go:23: Обновляем стату: 49839.	PositionId: 323	CityId:402	Count:14	Exp:Нет опыта	Salary:60000.000000	SpecsCount:2	AreasCount:1	
+INFO:2023/11/02 13:19:56 statistic.go:23: Обновляем стату: 121773.	PositionId: 678	CityId:267	Count:12	Exp:От 3 до 6 лет	Salary:NaN	SpecsCount:1	AreasCount:1	
+INFO:2023/11/02 13:19:57 statistic.go:23: Обновляем стату: 51707.	PositionId: 678	CityId:279	Count:12	Exp:От 3 до 6 лет	Salary:198250.000000	SpecsCount:2	AreasCount:1	
+INFO:2023/11/02 13:19:57 statistic.go:23: Обновляем стату: 52969.	PositionId: 323	CityId:138	Count:10	Exp:От 1 года до 3 лет	Salary:175000.000000	SpecsCount:1	AreasCount:1	
+INFO:2023/11/02 13:19:57 statistic.go:23: Обновляем стату: 54201.	PositionId: 323	CityId:127	Count:9	Exp:От 1 года до 3 лет	Salary:75125.000000	SpecsCount:1	AreasCount:1	
+INFO:2023/11/02 13:19:57 statistic.go:23: Обновляем стату: 121771.	PositionId: 675	CityId:76	Count:9	Exp:От 1 года до 3 лет	Salary:302917.000000	SpecsCount:3	AreasCount:1	
+INFO:2023/11/02 13:19:57 statistic.go:23: Обновляем стату: 95628.	PositionId: 676	CityId:76	Count:9	Exp:От 1 года до 3 лет	Salary:268214.000000	SpecsCount:3	AreasCount:1	
+INFO:2023/11/02 13:19:57 statistic.go:23: Обновляем стату: 59775.	PositionId: 678	CityId:379	Count:8	Exp:От 3 до 6 лет	Salary:198333.000000	SpecsCount:2	AreasCount:1	
+INFO:2023/11/02 13:19:57 statistic.go:23: Обновляем стату: 121774.	PositionId: 678	CityId:417	Count:8	Exp:От 3 до 6 лет	Salary:NaN	SpecsCount:1	AreasCount:1	
+INFO:2023/11/02 13:19:58 statistic.go:23: Обновляем стату: 59639.	PositionId: 323	CityId:548	Count:7	Exp:От 1 года до 3 лет	Salary:122131.000000	SpecsCount:2	AreasCount:1	
+INFO:2023/11/02 13:19:58 statistic.go:23: Обновляем стату: 121772.	PositionId: 677	CityId:379	Count:7	Exp:От 1 года до 3 лет	Salary:162500.000000	SpecsCount:2	AreasCount:1	
+INFO:2023/11/02 13:19:58 statistic.go:23: Обновляем стату: 121775.	PositionId: 678	CityId:495	Count:7	Exp:От 3 до 6 лет	Salary:NaN	SpecsCount:1	AreasCount:1	
+INFO:2023/11/02 13:19:58 statistic.go:23: Обновляем стату: 59638.	PositionId: 323	CityId:337	Count:6	Exp:От 1 года до 3 лет	Salary:179167.000000	SpecsCount:1	AreasCount:1	
+INFO:2023/11/02 13:19:58 statistic.go:23: Обновляем стату: 62274.	PositionId: 323	CityId:569	Count:6	Exp:От 1 года до 3 лет	Salary:166625.000000	SpecsCount:1	AreasCount:2	
+INFO:2023/11/02 13:19:58 statistic.go:23: Обновляем стату: 59776.	PositionId: 678	CityId:442	Count:6	Exp:От 3 до 6 лет	Salary:280000.000000	SpecsCount:1	AreasCount:1	
+INFO:2023/11/02 13:19:59 statistic.go:23: Обновляем стату: 62273.	PositionId: 323	CityId:281	Count:5	Exp:От 1 года до 3 лет	Salary:105000.000000	SpecsCount:1	AreasCount:1	
+INFO:2023/11/02 13:19:59 statistic.go:23: Обновляем стату: 65992.	PositionId: 323	CityId:508	Count:5	Exp:От 1 года до 3 лет	Salary:126000.000000	SpecsCount:1	AreasCount:2	
+INFO:2023/11/02 13:19:59 statistic.go:23: Обновляем стату: 121776.	PositionId: 323	CityId:512	Count:5	Exp:От 1 года до 3 лет	Salary:30000.000000	SpecsCount:1	AreasCount:2	
+INFO:2023/11/02 13:19:59 statistic.go:23: Обновляем стату: 65993.	PositionId: 323	CityId:519	Count:5	Exp:От 1 года до 3 лет	Salary:236667.000000	SpecsCount:1	AreasCount:2	
+INFO:2023/11/02 13:19:59 statistic.go:23: Обновляем стату: 79419.	PositionId: 323	CityId:134	Count:4	Exp:Нет опыта	Salary:72500.000000	SpecsCount:1	AreasCount:2	
+INFO:2023/11/02 13:19:59 statistic.go:23: Обновляем стату: 71187.	PositionId: 323	CityId:219	Count:4	Exp:Нет опыта	Salary:60000.000000	SpecsCount:1	AreasCount:2	
+INFO:2023/11/02 13:19:59 statistic.go:23: Обновляем стату: 121777.	PositionId: 323	CityId:303	Count:4	Exp:От 1 года до 3 лет	Salary:30000.000000	SpecsCount:1	AreasCount:2	
+INFO:2023/11/02 13:20:00 statistic.go:23: Обновляем стату: 65994.	PositionId: 323	CityId:522	Count:4	Exp:От 1 года до 3 лет	Salary:212500.000000	SpecsCount:1	AreasCount:1	
+INFO:2023/11/02 13:20:00 statistic.go:23: Обновляем стату: 71607.	PositionId: 677	CityId:204	Count:4	Exp:От 1 года до 3 лет	Salary:175000.000000	SpecsCount:2	AreasCount:1	
+INFO:2023/11/02 13:20:00 statistic.go:23: Обновляем стату: 71608.	PositionId: 677	CityId:279	Count:4	Exp:От 1 года до 3 лет	Salary:120500.000000	SpecsCount:2	AreasCount:1	
+INFO:2023/11/02 13:20:00 statistic.go:23: Обновляем стату: 71609.	PositionId: 677	CityId:402	Count:4	Exp:От 1 года до 3 лет	Salary:70000.000000	SpecsCount:2	AreasCount:1	
+INFO:2023/11/02 13:20:00 statistic.go:23: Обновляем стату: 71610.	PositionId: 678	CityId:204	Count:4	Exp:От 1 года до 3 лет	Salary:215000.000000	SpecsCount:2	AreasCount:1	
+INFO:2023/11/02 13:20:00 statistic.go:23: Обновляем стату: 71185.	PositionId: 323	CityId:107	Count:3	Exp:От 1 года до 3 лет	Salary:25000.000000	SpecsCount:1	AreasCount:1	
+INFO:2023/11/02 13:20:01 statistic.go:23: Обновляем стату: 71186.	PositionId: 323	CityId:155	Count:3	Exp:Нет опыта	Salary:79833.000000	SpecsCount:1	AreasCount:1	
+INFO:2023/11/02 13:20:01 statistic.go:23: Обновляем стату: 79420.	PositionId: 323	CityId:164	Count:3	Exp:Нет опыта	Salary:87500.000000	SpecsCount:1	AreasCount:2	
+INFO:2023/11/02 13:20:01 statistic.go:23: Обновляем стату: 121778.	PositionId: 323	CityId:231	Count:3	Exp:Нет опыта	Salary:NaN	SpecsCount:1	AreasCount:2	
+INFO:2023/11/02 13:20:01 statistic.go:23: Обновляем стату: 121779.	PositionId: 323	CityId:296	Count:3	Exp:От 1 года до 3 лет	Salary:NaN	SpecsCount:1	AreasCount:1	
+INFO:2023/11/02 13:20:01 statistic.go:23: Обновляем стату: 71188.	PositionId: 323	CityId:311	Count:3	Exp:Нет опыта	Salary:150000.000000	SpecsCount:1	AreasCount:1	
+INFO:2023/11/02 13:20:01 statistic.go:23: Обновляем стату: 80062.	PositionId: 676	CityId:279	Count:3	Exp:От 1 года до 3 лет	Salary:120500.000000	SpecsCount:2	AreasCount:1	
+INFO:2023/11/02 13:20:02 statistic.go:23: Обновляем стату: 121780.	PositionId: 677	CityId:267	Count:3	Exp:От 1 года до 3 лет	Salary:NaN	SpecsCount:1	AreasCount:1	
+INFO:2023/11/02 13:20:02 statistic.go:23: Обновляем стату: 121781.	PositionId: 678	CityId:512	Count:3	Exp:От 1 года до 3 лет	Salary:30000.000000	SpecsCount:1	AreasCount:2	
+INFO:2023/11/02 13:20:02 statistic.go:23: Обновляем стату: 121782.	PositionId: 323	CityId:81	Count:2	Exp:От 1 года до 3 лет	Salary:100000.000000	SpecsCount:2	AreasCount:1	
+INFO:2023/11/02 13:20:02 statistic.go:23: Обновляем стату: 121783.	PositionId: 323	CityId:120	Count:2	Exp:От 1 года до 3 лет	Salary:NaN	SpecsCount:1	AreasCount:1	
+INFO:2023/11/02 13:20:02 statistic.go:23: Обновляем стату: 121784.	PositionId: 323	CityId:182	Count:2	Exp:От 3 до 6 лет	Salary:NaN	SpecsCount:1	AreasCount:1	
+INFO:2023/11/02 13:20:02 statistic.go:23: Обновляем стату: 121785.	PositionId: 323	CityId:430	Count:2	Exp:От 1 года до 3 лет	Salary:NaN	SpecsCount:1	AreasCount:1	
+INFO:2023/11/02 13:20:02 statistic.go:23: Обновляем стату: 79421.	PositionId: 323	CityId:464	Count:2	Exp:От 1 года до 3 лет	Salary:90000.000000	SpecsCount:1	AreasCount:1	
+INFO:2023/11/02 13:20:03 statistic.go:23: Обновляем стату: 121786.	PositionId: 323	CityId:556	Count:2	Exp:От 1 года до 3 лет	Salary:NaN	SpecsCount:1	AreasCount:1	
+INFO:2023/11/02 13:20:03 statistic.go:23: Обновляем стату: 121787.	PositionId: 675	CityId:279	Count:2	Exp:От 1 года до 3 лет	Salary:171500.000000	SpecsCount:2	AreasCount:1	
+INFO:2023/11/02 13:20:03 statistic.go:23: Обновляем стату: 121788.	PositionId: 675	CityId:379	Count:2	Exp:От 1 года до 3 лет	Salary:162500.000000	SpecsCount:1	AreasCount:1	
+INFO:2023/11/02 13:20:03 statistic.go:23: Обновляем стату: 121789.	PositionId: 675	CityId:495	Count:2	Exp:Нет опыта	Salary:NaN	SpecsCount:1	AreasCount:1	
+INFO:2023/11/02 13:20:03 statistic.go:23: Обновляем стату: 121790.	PositionId: 676	CityId:379	Count:2	Exp:От 1 года до 3 лет	Salary:162500.000000	SpecsCount:1	AreasCount:1	
+INFO:2023/11/02 13:20:03 statistic.go:23: Обновляем стату: 95631.	PositionId: 676	CityId:402	Count:2	Exp:Нет опыта	Salary:40000.000000	SpecsCount:2	AreasCount:1	
+INFO:2023/11/02 13:20:04 statistic.go:23: Обновляем стату: 121791.	PositionId: 677	CityId:107	Count:2	Exp:От 3 до 6 лет	Salary:NaN	SpecsCount:1	AreasCount:1	
+INFO:2023/11/02 13:20:04 statistic.go:23: Обновляем стату: 80063.	PositionId: 677	CityId:127	Count:2	Exp:От 1 года до 3 лет	Salary:52500.000000	SpecsCount:1	AreasCount:1	
+INFO:2023/11/02 13:20:04 statistic.go:23: Обновляем стату: 121792.	PositionId: 677	CityId:303	Count:2	Exp:От 1 года до 3 лет	Salary:NaN	SpecsCount:1	AreasCount:1	
+INFO:2023/11/02 13:20:04 statistic.go:23: Обновляем стату: 121793.	PositionId: 677	CityId:442	Count:2	Exp:От 3 до 6 лет	Salary:NaN	SpecsCount:1	AreasCount:1	
+INFO:2023/11/02 13:20:04 statistic.go:23: Обновляем стату: 80064.	PositionId: 677	CityId:519	Count:2	Exp:От 1 года до 3 лет	Salary:140000.000000	SpecsCount:1	AreasCount:1	
+INFO:2023/11/02 13:20:04 statistic.go:23: Обновляем стату: 121794.	PositionId: 678	CityId:127	Count:2	Exp:От 1 года до 3 лет	Salary:NaN	SpecsCount:1	AreasCount:1	
+INFO:2023/11/02 13:20:04 statistic.go:23: Обновляем стату: 80065.	PositionId: 678	CityId:134	Count:2	Exp:От 1 года до 3 лет	Salary:53750.000000	SpecsCount:1	AreasCount:1	
+INFO:2023/11/02 13:20:05 statistic.go:23: Обновляем стату: 121795.	PositionId: 678	CityId:281	Count:2	Exp:От 3 до 6 лет	Salary:NaN	SpecsCount:1	AreasCount:1	
+INFO:2023/11/02 13:20:05 statistic.go:23: Обновляем стату: 80066.	PositionId: 678	CityId:337	Count:2	Exp:От 3 до 6 лет	Salary:240000.000000	SpecsCount:1	AreasCount:1	
+INFO:2023/11/02 13:20:05 statistic.go:23: Обновляем стату: 121796.	PositionId: 678	CityId:402	Count:2	Exp:Нет опыта	Salary:NaN	SpecsCount:2	AreasCount:1	
+INFO:2023/11/02 13:20:05 statistic.go:23: Обновляем стату: 80067.	PositionId: 678	CityId:519	Count:2	Exp:От 3 до 6 лет	Salary:140000.000000	SpecsCount:1	AreasCount:1	
+INFO:2023/11/02 13:20:05 statistic.go:23: Обновляем стату: 121797.	PositionId: 678	CityId:548	Count:2	Exp:От 1 года до 3 лет	Salary:140000.000000	SpecsCount:2	AreasCount:1	
+INFO:2023/11/02 13:20:05 statistic.go:23: Обновляем стату: 80068.	PositionId: 678	CityId:569	Count:2	Exp:От 3 до 6 лет	Salary:329000.000000	SpecsCount:1	AreasCount:1	
+INFO:2023/11/02 13:20:06 statistic.go:23: Обновляем стату: 121798.	PositionId: 323	CityId:24	Count:1	Exp:	Salary:74000.000000	SpecsCount:1	AreasCount:1	
+INFO:2023/11/02 13:20:06 statistic.go:23: Обновляем стату: 121799.	PositionId: 323	CityId:33	Count:1	Exp:	Salary:40000.000000	SpecsCount:1	AreasCount:1	
+INFO:2023/11/02 13:20:06 statistic.go:23: Обновляем стату: 94384.	PositionId: 323	CityId:99	Count:1	Exp:От 1 года до 3 лет	Salary:138000.000000	SpecsCount:1	AreasCount:1	
+INFO:2023/11/02 13:20:06 statistic.go:23: Обновляем стату: 121800.	PositionId: 323	CityId:104	Count:1	Exp:От 1 года до 3 лет	Salary:NaN	SpecsCount:1	AreasCount:1	
+INFO:2023/11/02 13:20:06 statistic.go:23: Обновляем стату: 94385.	PositionId: 323	CityId:171	Count:1	Exp:От 1 года до 3 лет	Salary:150000.000000	SpecsCount:1	AreasCount:1	
+INFO:2023/11/02 13:20:06 statistic.go:23: Обновляем стату: 121801.	PositionId: 323	CityId:172	Count:1	Exp:	Salary:30000.000000	SpecsCount:1	AreasCount:1	
+INFO:2023/11/02 13:20:06 statistic.go:23: Обновляем стату: 94386.	PositionId: 323	CityId:194	Count:1	Exp:От 1 года до 3 лет	Salary:184000.000000	SpecsCount:1	AreasCount:1	
+INFO:2023/11/02 13:20:07 statistic.go:23: Обновляем стату: 121802.	PositionId: 323	CityId:210	Count:1	Exp:От 3 до 6 лет	Salary:210000.000000	SpecsCount:1	AreasCount:1	
+INFO:2023/11/02 13:20:07 statistic.go:23: Обновляем стату: 121803.	PositionId: 323	CityId:216	Count:1	Exp:	Salary:90000.000000	SpecsCount:1	AreasCount:1	
+INFO:2023/11/02 13:20:07 statistic.go:23: Обновляем стату: 121804.	PositionId: 323	CityId:255	Count:1	Exp:	Salary:55000.000000	SpecsCount:1	AreasCount:1	
+INFO:2023/11/02 13:20:07 statistic.go:23: Обновляем стату: 94387.	PositionId: 323	CityId:287	Count:1	Exp:От 1 года до 3 лет	Salary:125000.000000	SpecsCount:1	AreasCount:1	
+INFO:2023/11/02 13:20:07 statistic.go:23: Обновляем стату: 121805.	PositionId: 323	CityId:291	Count:1	Exp:От 1 года до 3 лет	Salary:NaN	SpecsCount:1	AreasCount:1	
+INFO:2023/11/02 13:20:07 statistic.go:23: Обновляем стату: 121806.	PositionId: 323	CityId:319	Count:1	Exp:	Salary:400000.000000	SpecsCount:1	AreasCount:1	
+INFO:2023/11/02 13:20:08 statistic.go:23: Обновляем стату: 121807.	PositionId: 323	CityId:365	Count:1	Exp:От 1 года до 3 лет	Salary:NaN	SpecsCount:1	AreasCount:1	
+INFO:2023/11/02 13:20:08 statistic.go:23: Обновляем стату: 94388.	PositionId: 323	CityId:371	Count:1	Exp:Нет опыта	Salary:240000.000000	SpecsCount:1	AreasCount:1	
+INFO:2023/11/02 13:20:08 statistic.go:23: Обновляем стату: 121808.	PositionId: 323	CityId:408	Count:1	Exp:От 1 года до 3 лет	Salary:NaN	SpecsCount:1	AreasCount:1	
+INFO:2023/11/02 13:20:08 statistic.go:23: Обновляем стату: 94389.	PositionId: 323	CityId:419	Count:1	Exp:От 3 до 6 лет	Salary:80000.000000	SpecsCount:1	AreasCount:1	
+INFO:2023/11/02 13:20:08 statistic.go:23: Обновляем стату: 94390.	PositionId: 323	CityId:475	Count:1	Exp:От 3 до 6 лет	Salary:200000.000000	SpecsCount:1	AreasCount:1	
+INFO:2023/11/02 13:20:08 statistic.go:23: Обновляем стату: 94391.	PositionId: 323	CityId:490	Count:1	Exp:От 1 года до 3 лет	Salary:75000.000000	SpecsCount:1	AreasCount:1	
+INFO:2023/11/02 13:20:08 statistic.go:23: Обновляем стату: 121809.	PositionId: 323	CityId:5671	Count:1	Exp:От 1 года до 3 лет	Salary:NaN	SpecsCount:1	AreasCount:1	
+INFO:2023/11/02 13:20:09 statistic.go:23: Обновляем стату: 121810.	PositionId: 323	CityId:7146	Count:1	Exp:Нет опыта	Salary:175000.000000	SpecsCount:1	AreasCount:1	
+INFO:2023/11/02 13:20:09 statistic.go:23: Обновляем стату: 121811.	PositionId: 675	CityId:81	Count:1	Exp:Нет опыта	Salary:NaN	SpecsCount:1	AreasCount:1	
+INFO:2023/11/02 13:20:09 statistic.go:23: Обновляем стату: 121812.	PositionId: 675	CityId:204	Count:1	Exp:От 1 года до 3 лет	Salary:150000.000000	SpecsCount:1	AreasCount:1	
+INFO:2023/11/02 13:20:09 statistic.go:23: Обновляем стату: 121813.	PositionId: 675	CityId:210	Count:1	Exp:От 3 до 6 лет	Salary:210000.000000	SpecsCount:1	AreasCount:1	
+INFO:2023/11/02 13:20:09 statistic.go:23: Обновляем стату: 121814.	PositionId: 675	CityId:219	Count:1	Exp:Нет опыта	Salary:NaN	SpecsCount:1	AreasCount:1	
+INFO:2023/11/02 13:20:09 statistic.go:23: Обновляем стату: 121815.	PositionId: 675	CityId:402	Count:1	Exp:Нет опыта	Salary:NaN	SpecsCount:1	AreasCount:1	
+INFO:2023/11/02 13:20:10 statistic.go:23: Обновляем стату: 121816.	PositionId: 675	CityId:548	Count:1	Exp:От 1 года до 3 лет	Salary:140000.000000	SpecsCount:1	AreasCount:1	
+INFO:2023/11/02 13:20:10 statistic.go:23: Обновляем стату: 121817.	PositionId: 675	CityId:7146	Count:1	Exp:Нет опыта	Salary:175000.000000	SpecsCount:1	AreasCount:1	
+INFO:2023/11/02 13:20:10 statistic.go:23: Обновляем стату: 95629.	PositionId: 676	CityId:127	Count:1	Exp:Нет опыта	Salary:30000.000000	SpecsCount:1	AreasCount:1	
+INFO:2023/11/02 13:20:10 statistic.go:23: Обновляем стату: 121818.	PositionId: 676	CityId:134	Count:1	Exp:	Salary:52500.000000	SpecsCount:1	AreasCount:1	
+INFO:2023/11/02 13:20:10 statistic.go:23: Обновляем стату: 121819.	PositionId: 676	CityId:204	Count:1	Exp:От 1 года до 3 лет	Salary:150000.000000	SpecsCount:1	AreasCount:1	
+INFO:2023/11/02 13:20:10 statistic.go:23: Обновляем стату: 121820.	PositionId: 676	CityId:210	Count:1	Exp:От 3 до 6 лет	Salary:210000.000000	SpecsCount:1	AreasCount:1	
+INFO:2023/11/02 13:20:10 statistic.go:23: Обновляем стату: 95630.	PositionId: 676	CityId:219	Count:1	Exp:От 1 года до 3 лет	Salary:80000.000000	SpecsCount:1	AreasCount:1	
+INFO:2023/11/02 13:20:11 statistic.go:23: Обновляем стату: 121821.	PositionId: 676	CityId:495	Count:1	Exp:От 1 года до 3 лет	Salary:NaN	SpecsCount:1	AreasCount:1	
+INFO:2023/11/02 13:20:11 statistic.go:23: Обновляем стату: 95632.	PositionId: 676	CityId:522	Count:1	Exp:Нет опыта	Salary:240000.000000	SpecsCount:1	AreasCount:1	
+INFO:2023/11/02 13:20:11 statistic.go:23: Обновляем стату: 121822.	PositionId: 676	CityId:548	Count:1	Exp:От 1 года до 3 лет	Salary:140000.000000	SpecsCount:1	AreasCount:1	
+INFO:2023/11/02 13:20:11 statistic.go:23: Обновляем стату: 121823.	PositionId: 676	CityId:7146	Count:1	Exp:Нет опыта	Salary:175000.000000	SpecsCount:1	AreasCount:1	
+INFO:2023/11/02 13:20:11 statistic.go:23: Обновляем стату: 121824.	PositionId: 677	CityId:104	Count:1	Exp:От 1 года до 3 лет	Salary:NaN	SpecsCount:1	AreasCount:1	
+INFO:2023/11/02 13:20:11 statistic.go:23: Обновляем стату: 121825.	PositionId: 677	CityId:134	Count:1	Exp:	Salary:130000.000000	SpecsCount:1	AreasCount:1	
+INFO:2023/11/02 13:20:12 statistic.go:23: Обновляем стату: 121826.	PositionId: 677	CityId:138	Count:1	Exp:От 1 года до 3 лет	Salary:NaN	SpecsCount:1	AreasCount:1	
+INFO:2023/11/02 13:20:12 statistic.go:23: Обновляем стату: 121827.	PositionId: 677	CityId:164	Count:1	Exp:От 1 года до 3 лет	Salary:NaN	SpecsCount:1	AreasCount:1	
+INFO:2023/11/02 13:20:12 statistic.go:23: Обновляем стату: 121828.	PositionId: 677	CityId:210	Count:1	Exp:От 3 до 6 лет	Salary:210000.000000	SpecsCount:1	AreasCount:1	
+INFO:2023/11/02 13:20:12 statistic.go:23: Обновляем стату: 121829.	PositionId: 677	CityId:291	Count:1	Exp:От 1 года до 3 лет	Salary:NaN	SpecsCount:1	AreasCount:1	
+INFO:2023/11/02 13:20:12 statistic.go:23: Обновляем стату: 121830.	PositionId: 677	CityId:296	Count:1	Exp:От 1 года до 3 лет	Salary:NaN	SpecsCount:1	AreasCount:1	
+INFO:2023/11/02 13:20:12 statistic.go:23: Обновляем стату: 95633.	PositionId: 677	CityId:371	Count:1	Exp:Нет опыта	Salary:240000.000000	SpecsCount:1	AreasCount:1	
+INFO:2023/11/02 13:20:12 statistic.go:23: Обновляем стату: 95634.	PositionId: 677	CityId:419	Count:1	Exp:От 3 до 6 лет	Salary:80000.000000	SpecsCount:1	AreasCount:1	
+INFO:2023/11/02 13:20:13 statistic.go:23: Обновляем стату: 95635.	PositionId: 677	CityId:495	Count:1	Exp:От 1 года до 3 лет	Salary:170000.000000	SpecsCount:1	AreasCount:1	
+INFO:2023/11/02 13:20:13 statistic.go:23: Обновляем стату: 95636.	PositionId: 677	CityId:508	Count:1	Exp:От 1 года до 3 лет	Salary:100000.000000	SpecsCount:1	AreasCount:1	
+INFO:2023/11/02 13:20:13 statistic.go:23: Обновляем стату: 121831.	PositionId: 677	CityId:512	Count:1	Exp:От 3 до 6 лет	Salary:NaN	SpecsCount:1	AreasCount:1	
+INFO:2023/11/02 13:20:13 statistic.go:23: Обновляем стату: 121832.	PositionId: 677	CityId:548	Count:1	Exp:От 1 года до 3 лет	Salary:140000.000000	SpecsCount:1	AreasCount:1	
+INFO:2023/11/02 13:20:13 statistic.go:23: Обновляем стату: 121833.	PositionId: 677	CityId:7146	Count:1	Exp:Нет опыта	Salary:175000.000000	SpecsCount:1	AreasCount:1	
+INFO:2023/11/02 13:20:13 statistic.go:23: Обновляем стату: 95637.	PositionId: 678	CityId:138	Count:1	Exp:От 3 до 6 лет	Salary:200000.000000	SpecsCount:1	AreasCount:1	
+INFO:2023/11/02 13:20:14 statistic.go:23: Обновляем стату: 121834.	PositionId: 678	CityId:172	Count:1	Exp:	Salary:30000.000000	SpecsCount:1	AreasCount:1	
+INFO:2023/11/02 13:20:14 statistic.go:23: Обновляем стату: 121835.	PositionId: 678	CityId:210	Count:1	Exp:От 3 до 6 лет	Salary:210000.000000	SpecsCount:1	AreasCount:1	
+INFO:2023/11/02 13:20:14 statistic.go:23: Обновляем стату: 121836.	PositionId: 678	CityId:219	Count:1	Exp:От 1 года до 3 лет	Salary:NaN	SpecsCount:1	AreasCount:1	
+INFO:2023/11/02 13:20:14 statistic.go:23: Обновляем стату: 121837.	PositionId: 678	CityId:296	Count:1	Exp:От 3 до 6 лет	Salary:NaN	SpecsCount:1	AreasCount:1	
+INFO:2023/11/02 13:20:14 statistic.go:23: Обновляем стату: 95638.	PositionId: 678	CityId:371	Count:1	Exp:Нет опыта	Salary:240000.000000	SpecsCount:1	AreasCount:1	
+INFO:2023/11/02 13:20:14 statistic.go:23: Обновляем стату: 121838.	PositionId: 678	CityId:464	Count:1	Exp:От 3 до 6 лет	Salary:NaN	SpecsCount:1	AreasCount:1	
+INFO:2023/11/02 13:20:14 statistic.go:23: Обновляем стату: 95639.	PositionId: 678	CityId:475	Count:1	Exp:От 3 до 6 лет	Salary:200000.000000	SpecsCount:1	AreasCount:1	
+INFO:2023/11/02 13:20:15 statistic.go:23: Обновляем стату: 95640.	PositionId: 678	CityId:508	Count:1	Exp:От 3 до 6 лет	Salary:280000.000000	SpecsCount:1	AreasCount:1	
+INFO:2023/11/02 13:20:15 statistic.go:23: Обновляем стату: 95641.	PositionId: 678	CityId:522	Count:1	Exp:Нет опыта	Salary:240000.000000	SpecsCount:1	AreasCount:1	
+INFO:2023/11/02 13:20:15 statistic.go:23: Обновляем стату: 121839.	PositionId: 678	CityId:7146	Count:1	Exp:Нет опыта	Salary:175000.000000	SpecsCount:1	AreasCount:1	
+INFO:2023/11/02 13:21:55 statistic.go:23: Обновляем стату: 13477.	PositionId: 323	CityId:1	Count:3926	Exp:От 1 года до 3 лет	Salary:197297.000000	SpecsCount:6	AreasCount:4	
+INFO:2023/11/02 13:21:55 statistic.go:23: Обновляем стату: 13837.	PositionId: 678	CityId:1	Count:838	Exp:От 1 года до 3 лет	Salary:281477.000000	SpecsCount:3	AreasCount:2	
+INFO:2023/11/02 13:21:55 statistic.go:23: Обновляем стату: 14121.	PositionId: 677	CityId:1	Count:589	Exp:От 1 года до 3 лет	Salary:185380.000000	SpecsCount:3	AreasCount:1	
+INFO:2023/11/02 13:21:55 statistic.go:23: Обновляем стату: 20953.	PositionId: 676	CityId:1	Count:185	Exp:От 1 года до 3 лет	Salary:150021.000000	SpecsCount:3	AreasCount:1	
+INFO:2023/11/02 13:21:56 statistic.go:23: Обновляем стату: 17986.	PositionId: 323	CityId:76	Count:163	Exp:От 1 года до 3 лет	Salary:200384.000000	SpecsCount:5	AreasCount:4	
+INFO:2023/11/02 13:21:56 statistic.go:23: Обновляем стату: 26551.	PositionId: 675	CityId:1	Count:122	Exp:Нет опыта	Salary:207380.000000	SpecsCount:3	AreasCount:1	
+INFO:2023/11/02 13:21:56 statistic.go:23: Обновляем стату: 23159.	PositionId: 678	CityId:76	Count:46	Exp:От 3 до 6 лет	Salary:294648.000000	SpecsCount:3	AreasCount:1	
+INFO:2023/11/02 13:21:56 statistic.go:23: Обновляем стату: 22883.	PositionId: 323	CityId:279	Count:45	Exp:От 1 года до 3 лет	Salary:137208.000000	SpecsCount:2	AreasCount:2	
+INFO:2023/11/02 13:21:56 statistic.go:23: Обновляем стату: 25132.	PositionId: 323	CityId:379	Count:30	Exp:От 1 года до 3 лет	Salary:185000.000000	SpecsCount:2	AreasCount:1	
+INFO:2023/11/02 13:21:56 statistic.go:23: Обновляем стату: 25617.	PositionId: 323	CityId:442	Count:27	Exp:От 1 года до 3 лет	Salary:204444.000000	SpecsCount:1	AreasCount:2	
+INFO:2023/11/02 13:21:57 statistic.go:23: Обновляем стату: 29090.	PositionId: 677	CityId:76	Count:25	Exp:От 1 года до 3 лет	Salary:248611.000000	SpecsCount:3	AreasCount:1	
+INFO:2023/11/02 13:21:57 statistic.go:23: Обновляем стату: 27366.	PositionId: 323	CityId:267	Count:24	Exp:От 1 года до 3 лет	Salary:125265.000000	SpecsCount:1	AreasCount:3	
+INFO:2023/11/02 13:21:57 statistic.go:23: Обновляем стату: 29572.	PositionId: 323	CityId:495	Count:18	Exp:От 1 года до 3 лет	Salary:106667.000000	SpecsCount:2	AreasCount:2	
+INFO:2023/11/02 13:21:57 statistic.go:23: Обновляем стату: 30145.	PositionId: 323	CityId:417	Count:15	Exp:От 1 года до 3 лет	Salary:350000.000000	SpecsCount:1	AreasCount:1	
+INFO:2023/11/02 13:21:57 statistic.go:23: Обновляем стату: 49838.	PositionId: 323	CityId:204	Count:14	Exp:От 1 года до 3 лет	Salary:195000.000000	SpecsCount:2	AreasCount:1	
+INFO:2023/11/02 13:21:57 statistic.go:23: Обновляем стату: 49839.	PositionId: 323	CityId:402	Count:14	Exp:Нет опыта	Salary:60000.000000	SpecsCount:2	AreasCount:1	
+INFO:2023/11/02 13:21:57 statistic.go:23: Обновляем стату: 121773.	PositionId: 678	CityId:267	Count:12	Exp:От 3 до 6 лет	Salary:NaN	SpecsCount:1	AreasCount:1	
+INFO:2023/11/02 13:21:58 statistic.go:23: Обновляем стату: 51707.	PositionId: 678	CityId:279	Count:12	Exp:От 3 до 6 лет	Salary:198250.000000	SpecsCount:2	AreasCount:1	
+INFO:2023/11/02 13:21:58 statistic.go:23: Обновляем стату: 52969.	PositionId: 323	CityId:138	Count:10	Exp:От 1 года до 3 лет	Salary:175000.000000	SpecsCount:1	AreasCount:1	
+INFO:2023/11/02 13:21:58 statistic.go:23: Обновляем стату: 54201.	PositionId: 323	CityId:127	Count:9	Exp:От 1 года до 3 лет	Salary:75125.000000	SpecsCount:1	AreasCount:1	
+INFO:2023/11/02 13:21:58 statistic.go:23: Обновляем стату: 121771.	PositionId: 675	CityId:76	Count:9	Exp:От 1 года до 3 лет	Salary:302917.000000	SpecsCount:3	AreasCount:1	
+INFO:2023/11/02 13:21:58 statistic.go:23: Обновляем стату: 95628.	PositionId: 676	CityId:76	Count:9	Exp:От 1 года до 3 лет	Salary:268214.000000	SpecsCount:3	AreasCount:1	
+INFO:2023/11/02 13:21:58 statistic.go:23: Обновляем стату: 59775.	PositionId: 678	CityId:379	Count:8	Exp:От 3 до 6 лет	Salary:198333.000000	SpecsCount:2	AreasCount:1	
+INFO:2023/11/02 13:21:59 statistic.go:23: Обновляем стату: 121774.	PositionId: 678	CityId:417	Count:8	Exp:От 3 до 6 лет	Salary:NaN	SpecsCount:1	AreasCount:1	
+INFO:2023/11/02 13:21:59 statistic.go:23: Обновляем стату: 59639.	PositionId: 323	CityId:548	Count:7	Exp:От 1 года до 3 лет	Salary:122131.000000	SpecsCount:2	AreasCount:1	
+INFO:2023/11/02 13:21:59 statistic.go:23: Обновляем стату: 121772.	PositionId: 677	CityId:379	Count:7	Exp:От 1 года до 3 лет	Salary:162500.000000	SpecsCount:2	AreasCount:1	
+INFO:2023/11/02 13:21:59 statistic.go:23: Обновляем стату: 121775.	PositionId: 678	CityId:495	Count:7	Exp:От 3 до 6 лет	Salary:NaN	SpecsCount:1	AreasCount:1	
+INFO:2023/11/02 13:21:59 statistic.go:23: Обновляем стату: 59638.	PositionId: 323	CityId:337	Count:6	Exp:От 1 года до 3 лет	Salary:179167.000000	SpecsCount:1	AreasCount:1	
+INFO:2023/11/02 13:21:59 statistic.go:23: Обновляем стату: 62274.	PositionId: 323	CityId:569	Count:6	Exp:От 1 года до 3 лет	Salary:166625.000000	SpecsCount:1	AreasCount:2	
+INFO:2023/11/02 13:21:59 statistic.go:23: Обновляем стату: 59776.	PositionId: 678	CityId:442	Count:6	Exp:От 3 до 6 лет	Salary:280000.000000	SpecsCount:1	AreasCount:1	
+INFO:2023/11/02 13:22:00 statistic.go:23: Обновляем стату: 62273.	PositionId: 323	CityId:281	Count:5	Exp:От 1 года до 3 лет	Salary:105000.000000	SpecsCount:1	AreasCount:1	
+INFO:2023/11/02 13:22:00 statistic.go:23: Обновляем стату: 65992.	PositionId: 323	CityId:508	Count:5	Exp:От 1 года до 3 лет	Salary:126000.000000	SpecsCount:1	AreasCount:2	
+INFO:2023/11/02 13:22:00 statistic.go:23: Обновляем стату: 121776.	PositionId: 323	CityId:512	Count:5	Exp:От 1 года до 3 лет	Salary:30000.000000	SpecsCount:1	AreasCount:2	
+INFO:2023/11/02 13:22:00 statistic.go:23: Обновляем стату: 65993.	PositionId: 323	CityId:519	Count:5	Exp:От 1 года до 3 лет	Salary:236667.000000	SpecsCount:1	AreasCount:2	
+INFO:2023/11/02 13:22:00 statistic.go:23: Обновляем стату: 79419.	PositionId: 323	CityId:134	Count:4	Exp:Нет опыта	Salary:72500.000000	SpecsCount:1	AreasCount:2	
+INFO:2023/11/02 13:22:00 statistic.go:23: Обновляем стату: 71187.	PositionId: 323	CityId:219	Count:4	Exp:Нет опыта	Salary:60000.000000	SpecsCount:1	AreasCount:2	
+INFO:2023/11/02 13:22:00 statistic.go:23: Обновляем стату: 121777.	PositionId: 323	CityId:303	Count:4	Exp:От 1 года до 3 лет	Salary:30000.000000	SpecsCount:1	AreasCount:2	
+INFO:2023/11/02 13:22:01 statistic.go:23: Обновляем стату: 65994.	PositionId: 323	CityId:522	Count:4	Exp:От 1 года до 3 лет	Salary:212500.000000	SpecsCount:1	AreasCount:1	
+INFO:2023/11/02 13:22:01 statistic.go:23: Обновляем стату: 71607.	PositionId: 677	CityId:204	Count:4	Exp:От 1 года до 3 лет	Salary:175000.000000	SpecsCount:2	AreasCount:1	
+INFO:2023/11/02 13:22:01 statistic.go:23: Обновляем стату: 71608.	PositionId: 677	CityId:279	Count:4	Exp:От 1 года до 3 лет	Salary:120500.000000	SpecsCount:2	AreasCount:1	
+INFO:2023/11/02 13:22:01 statistic.go:23: Обновляем стату: 71609.	PositionId: 677	CityId:402	Count:4	Exp:От 1 года до 3 лет	Salary:70000.000000	SpecsCount:2	AreasCount:1	
+INFO:2023/11/02 13:22:01 statistic.go:23: Обновляем стату: 71610.	PositionId: 678	CityId:204	Count:4	Exp:От 1 года до 3 лет	Salary:215000.000000	SpecsCount:2	AreasCount:1	
+INFO:2023/11/02 13:22:01 statistic.go:23: Обновляем стату: 71185.	PositionId: 323	CityId:107	Count:3	Exp:От 1 года до 3 лет	Salary:25000.000000	SpecsCount:1	AreasCount:1	
+INFO:2023/11/02 13:22:01 statistic.go:23: Обновляем стату: 71186.	PositionId: 323	CityId:155	Count:3	Exp:Нет опыта	Salary:79833.000000	SpecsCount:1	AreasCount:1	
+INFO:2023/11/02 13:22:02 statistic.go:23: Обновляем стату: 79420.	PositionId: 323	CityId:164	Count:3	Exp:Нет опыта	Salary:87500.000000	SpecsCount:1	AreasCount:2	
+INFO:2023/11/02 13:22:02 statistic.go:23: Обновляем стату: 121778.	PositionId: 323	CityId:231	Count:3	Exp:Нет опыта	Salary:NaN	SpecsCount:1	AreasCount:2	
+INFO:2023/11/02 13:22:02 statistic.go:23: Обновляем стату: 121779.	PositionId: 323	CityId:296	Count:3	Exp:От 1 года до 3 лет	Salary:NaN	SpecsCount:1	AreasCount:1	
+INFO:2023/11/02 13:22:02 statistic.go:23: Обновляем стату: 71188.	PositionId: 323	CityId:311	Count:3	Exp:Нет опыта	Salary:150000.000000	SpecsCount:1	AreasCount:1	
+INFO:2023/11/02 13:22:02 statistic.go:23: Обновляем стату: 80062.	PositionId: 676	CityId:279	Count:3	Exp:От 1 года до 3 лет	Salary:120500.000000	SpecsCount:2	AreasCount:1	
+INFO:2023/11/02 13:22:02 statistic.go:23: Обновляем стату: 121780.	PositionId: 677	CityId:267	Count:3	Exp:От 1 года до 3 лет	Salary:NaN	SpecsCount:1	AreasCount:1	
+INFO:2023/11/02 13:22:03 statistic.go:23: Обновляем стату: 121781.	PositionId: 678	CityId:512	Count:3	Exp:От 1 года до 3 лет	Salary:30000.000000	SpecsCount:1	AreasCount:2	
+INFO:2023/11/02 13:22:03 statistic.go:23: Обновляем стату: 121782.	PositionId: 323	CityId:81	Count:2	Exp:От 1 года до 3 лет	Salary:100000.000000	SpecsCount:2	AreasCount:1	
+INFO:2023/11/02 13:22:03 statistic.go:23: Обновляем стату: 121783.	PositionId: 323	CityId:120	Count:2	Exp:От 1 года до 3 лет	Salary:NaN	SpecsCount:1	AreasCount:1	
+INFO:2023/11/02 13:22:03 statistic.go:23: Обновляем стату: 121784.	PositionId: 323	CityId:182	Count:2	Exp:От 3 до 6 лет	Salary:NaN	SpecsCount:1	AreasCount:1	
+INFO:2023/11/02 13:22:03 statistic.go:23: Обновляем стату: 121785.	PositionId: 323	CityId:430	Count:2	Exp:От 1 года до 3 лет	Salary:NaN	SpecsCount:1	AreasCount:1	
+INFO:2023/11/02 13:22:03 statistic.go:23: Обновляем стату: 79421.	PositionId: 323	CityId:464	Count:2	Exp:От 1 года до 3 лет	Salary:90000.000000	SpecsCount:1	AreasCount:1	
+INFO:2023/11/02 13:22:03 statistic.go:23: Обновляем стату: 121786.	PositionId: 323	CityId:556	Count:2	Exp:От 1 года до 3 лет	Salary:NaN	SpecsCount:1	AreasCount:1	
+INFO:2023/11/02 13:22:04 statistic.go:23: Обновляем стату: 121787.	PositionId: 675	CityId:279	Count:2	Exp:От 1 года до 3 лет	Salary:171500.000000	SpecsCount:2	AreasCount:1	
+INFO:2023/11/02 13:22:04 statistic.go:23: Обновляем стату: 121788.	PositionId: 675	CityId:379	Count:2	Exp:От 1 года до 3 лет	Salary:162500.000000	SpecsCount:1	AreasCount:1	
+INFO:2023/11/02 13:22:04 statistic.go:23: Обновляем стату: 121789.	PositionId: 675	CityId:495	Count:2	Exp:Нет опыта	Salary:NaN	SpecsCount:1	AreasCount:1	
+INFO:2023/11/02 13:22:04 statistic.go:23: Обновляем стату: 121790.	PositionId: 676	CityId:379	Count:2	Exp:От 1 года до 3 лет	Salary:162500.000000	SpecsCount:1	AreasCount:1	
+INFO:2023/11/02 13:22:04 statistic.go:23: Обновляем стату: 95631.	PositionId: 676	CityId:402	Count:2	Exp:Нет опыта	Salary:40000.000000	SpecsCount:2	AreasCount:1	
+INFO:2023/11/02 13:22:04 statistic.go:23: Обновляем стату: 121791.	PositionId: 677	CityId:107	Count:2	Exp:От 3 до 6 лет	Salary:NaN	SpecsCount:1	AreasCount:1	
+INFO:2023/11/02 13:22:04 statistic.go:23: Обновляем стату: 80063.	PositionId: 677	CityId:127	Count:2	Exp:От 1 года до 3 лет	Salary:52500.000000	SpecsCount:1	AreasCount:1	
+INFO:2023/11/02 13:22:05 statistic.go:23: Обновляем стату: 121792.	PositionId: 677	CityId:303	Count:2	Exp:От 1 года до 3 лет	Salary:NaN	SpecsCount:1	AreasCount:1	
+INFO:2023/11/02 13:22:05 statistic.go:23: Обновляем стату: 121793.	PositionId: 677	CityId:442	Count:2	Exp:От 3 до 6 лет	Salary:NaN	SpecsCount:1	AreasCount:1	
+INFO:2023/11/02 13:22:05 statistic.go:23: Обновляем стату: 80064.	PositionId: 677	CityId:519	Count:2	Exp:От 1 года до 3 лет	Salary:140000.000000	SpecsCount:1	AreasCount:1	
+INFO:2023/11/02 13:22:05 statistic.go:23: Обновляем стату: 121794.	PositionId: 678	CityId:127	Count:2	Exp:От 1 года до 3 лет	Salary:NaN	SpecsCount:1	AreasCount:1	
+INFO:2023/11/02 13:22:05 statistic.go:23: Обновляем стату: 80065.	PositionId: 678	CityId:134	Count:2	Exp:От 1 года до 3 лет	Salary:53750.000000	SpecsCount:1	AreasCount:1	
+INFO:2023/11/02 13:22:05 statistic.go:23: Обновляем стату: 121795.	PositionId: 678	CityId:281	Count:2	Exp:От 3 до 6 лет	Salary:NaN	SpecsCount:1	AreasCount:1	
+INFO:2023/11/02 13:22:05 statistic.go:23: Обновляем стату: 80066.	PositionId: 678	CityId:337	Count:2	Exp:От 3 до 6 лет	Salary:240000.000000	SpecsCount:1	AreasCount:1	
+INFO:2023/11/02 13:22:06 statistic.go:23: Обновляем стату: 121796.	PositionId: 678	CityId:402	Count:2	Exp:Нет опыта	Salary:NaN	SpecsCount:2	AreasCount:1	
+INFO:2023/11/02 13:22:06 statistic.go:23: Обновляем стату: 80067.	PositionId: 678	CityId:519	Count:2	Exp:От 3 до 6 лет	Salary:140000.000000	SpecsCount:1	AreasCount:1	
+INFO:2023/11/02 13:22:06 statistic.go:23: Обновляем стату: 121797.	PositionId: 678	CityId:548	Count:2	Exp:От 1 года до 3 лет	Salary:140000.000000	SpecsCount:2	AreasCount:1	
+INFO:2023/11/02 13:22:06 statistic.go:23: Обновляем стату: 80068.	PositionId: 678	CityId:569	Count:2	Exp:От 3 до 6 лет	Salary:329000.000000	SpecsCount:1	AreasCount:1	
+INFO:2023/11/02 13:22:06 statistic.go:23: Обновляем стату: 121798.	PositionId: 323	CityId:24	Count:1	Exp:	Salary:74000.000000	SpecsCount:1	AreasCount:1	
+INFO:2023/11/02 13:22:06 statistic.go:23: Обновляем стату: 121799.	PositionId: 323	CityId:33	Count:1	Exp:	Salary:40000.000000	SpecsCount:1	AreasCount:1	
+INFO:2023/11/02 13:22:07 statistic.go:23: Обновляем стату: 94384.	PositionId: 323	CityId:99	Count:1	Exp:От 1 года до 3 лет	Salary:138000.000000	SpecsCount:1	AreasCount:1	

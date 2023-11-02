@@ -59,7 +59,7 @@ func (d *Database) UpdateStatistic(statId int64, stat models.Statistic) {
 		SET
 			vacancy_id = '%s',
 			count = %d,
-			average_salary = %f,
+			average_salary = %.3f,
 			average_experience = '%s',
 			prof_areas = '%s',
 			specs = '%s'

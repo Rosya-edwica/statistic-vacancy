@@ -2,6 +2,7 @@ package main
 
 import (
 	"fmt"
+	"math"
 	"os"
 	"strings"
 
@@ -38,7 +39,7 @@ func main() {
 		Name:     os.Getenv("MYSQL_DATABASE"),
 	}
 	database.Connect()
-	positions := database.GetPositions()
+	positions := database.GetPythonPositions()
 	for i, pos := range positions {
 		fmt.Printf("Осталось:%d/%d\n", i+1, len(positions))
 		vacancies := database.GetVacancies(pos)
@@ -134,6 +135,6 @@ func getAverageSalary(vacancies []models.Vacancy) (average float64) {
 			count++
 		}
 	}
-	average = sum / float64(count)
+	average = math.Round(sum / float64(count))
 	return
 }
